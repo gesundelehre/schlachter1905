@@ -112,7 +112,8 @@ Markus 3
 35. Denn wer den Willen Gottes thut, derselbe ist mein Bruder, und meine Schwester und Mutter.
 Markus 4
 1. Und er fing abermal an zu lehren am Meere. Und es versammelte sich zu ihm viel Volk, also dass er in das Schiff stieg und auf dem Meere sass: und alles Volk war auf dem Land am Meere.
-2. Und er lehrte sie viel in Gleichnissen und sagte zu ihnen in seiner Lehre: 3. Höret zu! Siehe, es ging ein Sämann aus zu säen.
+2. Und er lehrte sie viel in Gleichnissen und sagte zu ihnen in seiner Lehre:
+3. Höret zu! Siehe, es ging ein Sämann aus zu säen.
 4. Und es begab sich, indem er säete, dass Etliches auf den Weg fiel; und die Vögel des Himmels kamen und frassen es auf
 5. Anderes aber fiel auf das Steinichte, wo es nicht viel Erde hatte; und es ging alsobald auf, darum, weil es nicht tiefe Erde hatte.
 6. Als aber die Sonne aufging, ward es verbrannt; und weil es nicht Wurzel hatte, verdorrete es.
@@ -188,14 +189,17 @@ l0. Und er bat ihn sehr, dass er sie nicht aus dem Land verweise.
 34. Er aber sprach zu ihr: Tochter, dein Glaube hat dir geholfen! Gehe hin in Frieden und sei von deiner Plage gesund!
 35. Da er noch redete, kamen Etliche von den Leuten des Obersten der Synagoge und sprachen: Deine Tochter ist gestorben, was bemühst du den Meister noch?
 36. Sobald aber Jesus dies Wort hörte, sprach er zum Obersten der Synagoge: Fürchte dich nicht, glaube nur!
-37. Und er liess Niemand ihm folgen als den Petrus und Jakobus und Johannes, des Jakobus Bruder38. Und er kommt in das Haus des Obersten der Synagoge und sieht das Getümmel und wie arg sie weinten und heulten.
+37. Und er liess Niemand ihm folgen als den Petrus und Jakobus und Johannes, des Jakobus Bruder
+38. Und er kommt in das Haus des Obersten der Synagoge und sieht das Getümmel und wie arg sie weinten und heulten.
 39. Und er ging hinein und spricht zu ihnen: Was machet ihr ein Getümmel und weinet? Das Kind ist nicht gestorben, sondern es schläft.
 40. Und sie verlachten ihn. Er aber, nachdem er Alle hinausgewiesen, nahm zu sich des Kindes Vater und Mutter samt denen, die bei ihm waren, und ging hinein, wo das Kind lag.
 41. Und er ergriff des Kindes Hand und sprach zu ihm: Talitha kumi! Das ist verdolmetscht: Mägdlein, ich sage dir, stehe auf!
 42. Und alsobald stand das Mägdlein auf und wandelte; denn es war zwölf Jahre alt. Und sie entsetzten sich sehr.
 43. Und er verbot ihnen ernstlich, dass es niemand erfahre; und befahl, dass man ihr zu essen gebe.
 Markus 6
-1. Und er zog von dannen und kam in seine Vaterstadt; und seine Jünger folgten ihm nach,  DE? als der lSZb at am im eran1n er «naoe u eren; und vieleg, die zuhörten, erstaiPntgen und sprachen: Woher kommt diesem solches? Und was ist das für eine Weisheit, die ihm gegeben ist, und geschehen solche Thaten durch   in , o er - r Jakobus und JY)ses und Judas und Simon? Und sind nicht seine Schwestern hier bei uns? Und sie ärgerten sich an ihm.
+1. Und er zog von dannen und kam in seine Vaterstadt; und seine Jünger folgten ihm nach,
+2. Und als der Sabbat kam, fing er an in der Synagoge zu lehren; und viele, die zuhörten, erstaunten und sprachen: Woher komm diesem solches? Und was ist das für eine Weisheit, die ihm gegeben ist, und geschehen solche Thaten durch seine Hände?
+3. Ist er nicht der Zimmermann, der Sohn der Maria, der Bruder des Jakobus und Joses und Judas und Simon? Und sind nicht seine Schwestern hier bei uns? Und sie ärgerten sich an ihm.
 4. Jesus aber sprach zu ihnen: Ein Prophet ist nirgends verachtet als in seiner Vaterstadt und bei seinen Verwandten und in seinem Hause.
 5. Und er konnte daselbst kein Wunder thun, ausser dass er wenigen Kranken die Hände auflegte und sie heilte.
 6. Und er verwunderte sich wegen ihres Unglaubens und zog durch die Flecken rings umher und lehrte.
@@ -211,160 +215,170 @@ Markus 6
 16. Da es also Herodes hörte, sprach er: Es ist Johannes, den ich enthauptet habe; der ist von den Toten auferstanden!
 17. Denn er, Herodes, hatte den Johannes ergreifen lassen und hielt ihn im Gefängnis gebunden, um Herodias willen, des Weibes seines Bruders Philippus, weil er sie zum Weib genommen hatte.
 18. Denn Johannes hatte zu Herodes gesagt: Es ist dir nicht erlaubt, deines Bruders Weib zu haben.
-19. Herodias??? aber stellte ihm nach und wollte ihn töten und vermochte es nicht. —
-20. Denn Herodes fürchtete den Johannes, weil er wusste, dass er ein gerechter und heiliger Mann war, und verwahrte ihn, und gehorchte ihm in manchem und hörte ihn gern. 2l. Aber als ein gelegener Tag kam, da Herodes seinen Grossen und Obersten und den Vornehmsten des galiläischen Landes an seinem Geburtstag ein Gastmahl gab;
-22. da trat der Herodias Tochter herein und tanzte; das gefiel dem Herodes und denen, die mit ihm zu Tische sassen. Da sprach der König zu dem Mädchen: Bitte von mir, was du willst, so werde ich dir???s geben!
-23. Und er schwur ihr: Was du auch von mir bitten willst??? das will ich dir geben bis zur Hälfte meines Königreichs.
+19. Herodias aber stellte ihm nach und wollte ihn töten und vermochte es nicht. -
+20. Denn Herodes fürchtete den Johannes, weil er wusste, dass er ein gerechter und heiliger Mann war, und verwahrte ihn, und gehorchte ihm in manchem und hörte ihn gern.
+2l. Aber als ein gelegener Tag kam, da Herodes seinen Grossen und Obersten und den Vornehmsten des galiläischen Landes an seinem Geburtstag ein Gastmahl gab;
+22. da trat der Herodias Tochter herein und tanzte; das gefiel dem Herodes und denen, die mit ihm zu Tische sassen. Da sprach der König zu dem Mädchen: Bitte von mir, was du willst, so werde ich dir's geben!
+23. Und er schwur ihr: Was du auch von mir bitten willst, das will ich dir geben bis zur Hälfte meines Königreichs.
 24. Da ging sie hinaus und sprach zu ihrer Mutter: Was soll ich bitten? Die aber sprach: Das Haupt Johannes des Täufers.
-25. Und alsobald ging sie eilends zum Könige hinein, bat und sprach: Ich will??? dass du mir gebest jetzt zur Stunde auf einer Schüssel das Haupt Johannes des Täufers.
-26. Da ward der König sehr betrübt; doch um des Eides und um derer willen, die mit ihm zu Tische sassen, wollte sie nicht abweisen.
-2. Und der König schickte alsobald einen Trabanten hin und befahl, dass sein Haupt gebracht werde.
+25. Und alsobald ging sie eilends zum Könige hinein, bat und sprach: Ich will, dass du mir gebest jetzt zur Stunde auf einer Schüssel das Haupt Johannes des Täufers.
+26. Da ward der König sehr betrübt; doch um des Eides und um derer willen, die mit ihm zu Tische sassen, wollte er sie nicht abweisen.
+27. Und der König schickte alsobald einen Trabanten hin und befahl, dass sein Haupt gebracht werde.
 28. Dieser ging hin und enthauptete ihn im Gefängniss und brachte sein Haupt auf einer Schüssel und gab es dem Mädchen.
 29. Und als es seine Jünger hörten, kamen sie und nahmen seinen Leichnam und legten ihn in ein Grab.
-30.  Und die Apostel versammelten sich bei Jesu und verkündigten ihm alles, was sie gethan und gelehrt hatten.
-31. Und er sprach zu ihnen: Kommet ihr allein an einen einsamen Ort und ruhet ein wenig! Denn es waren Viele, die ab- und zugingen, und sie hatten nicht einmal Zeit zu essen. —
-32. Und sie fuhren allem zu Schiffe an einen einsamen Ort.
+30. Und die Apostel versammelten sich bei Jesu und verkündigten ihm alles, was sie gethan und gelehrt hatten.
+31. Und er sprach zu ihnen: Kommet ihr allein an einen einsamen Ort und ruhet ein wenig! Denn es waren Viele, die ab- und zugingen, und sie hatten nicht einmal Zeit zu essen. -
+32. Und sie fuhren allein zu Schiffe an einen einsamen Ort.
 33. Und das Volk sah sie hinwegfahren, und es erkannten ihn Viele; und sie liefen aus allen Städten zu Fuss dahin ihnen zuvor und kamen bei ihm zusammen.
 34. Und als Jesus ausstieg, sah er eine grosse Menge; und erbarmte sich ihrer; denn sie waren wie Schafe, die keinen Hirten haben; und er fing an, sie vieles zu lehren.
-35. Und als nun der Tag fast vorüber war, traten seine Jünger zu ihm und sagten: Dieses ??? Ort ist einöde, und der Tag ist fast Vorüber.
+35. Und als nun der Tag fast vorüber war, traten seine Jünger zu ihm und sagten: DieserOrt ist einöde, und der Tag ist fast Vorüber.
 36. Lass sie von dir, dass sie hingehen in die Dörfer und Flecken rings umher und sich Brot kaufen; denn sie haben nichts zu essen.
 37. Er aber antwortete und sprach zu ihnen: Gebet ihr ihnen zu essen! Und sie sprachen zu ihm: Sollen wir hingeben und für zweihundert Denare Brot kaufen und ihnen zu essen geben?
-38. Er aber sprach zu ihnen: Wie viele Brote habt ihr? Gehe: hin und sehet! Und als sie es erkundigt, sprachen sie: Fünf, und zwei Fische.
-39. Und er befahl ihnen, dass sich alle nach Gesellschaften in das grüne Gras setzen sollten. 
+38. Er aber sprach zu ihnen: Wie viele Brote habt ihr? Gehet hin und sehet! Und als sie es erkundigt, sprachen sie: Fünf, und zwei Fische.
+39. Und er befahl ihnen, dass sich alle nach Gesellschaften in das grüne Gras setzen sollten.
 40. Und sie setzten sich abteilungsweise, je hundert und hundert, und je fünfzig und fünfzig.
-41. Und er nahm die fünf Brote und die zwei Fische, blickte zum Himmel empor und dankte, brach die Brote und gab sie seinen Jüngern, dass sie ihnen diese ben vorlegten: auch die zwei Fische teilte er unter alle.
+41. Und er nahm die fünf Brote und die zwei Fische, blickte zum Himmel empor und dankte, brach die Brote und gab sie seinen Jüngern, dass sie ihnen dieselben vorlegten; auch die zwei Fische teilte er unter alle.
 42. Und sie assen alle und wurden satt.
 43. Und sie hoben auf von den Stücken zwölf Körbe voll, und von den Fischen.
 44. Und derer, welche die Brote gegessen hatten, waren bei fünftausend Männer.
 45. Und alsobald nötigte er seine Jünger, in das Schiff zu steigen und vor ihm hinüber zu fahren nach Betsaida, bis er das Volk entlassen hätte.
 46. Und nachdem er sie verabschiedet hatte, ging er auf einen Berg zu beten.
 47. Und da es Abend geworden, war das Schiff mitten auf dem Meere, und er allein auf dem Lande.
-48. Und er sah, dass sie im Rudern Not litten; denn der Wind war ihnen entgegen. Und um die vierte Nachtwache kommt er zu ihnen, auf dem Meere wandelnd und er wollte bei ihnen voxiik-ergehe» 
-49 Arg sie ihn aber auf dem Meere wandeln sahen, meinten sie, es wäre ein Gespenst, und schrieen. —-
-50. Denn sie sahen ihn alle und erschrac???ken. Und er redete alsobald mit ihnen und sprach: Seid getrost! Ich bin’s; fürchtet euch nicht!
-5l. Und er stieg zu Ihnen in das Schiff, und der Wind legte sich. Und sie erstaunten bei sich seH)st U«k;8V»dIE Massen und verwunderten sich. g«o rd;L1iemi1ibex:le d3iargE151r tncht dverstäpdig gis- wcZr3 vårhdärFt. o en, enn ihr Hez . U le 11 xel-s   " M das Land CxEt?esareth«:i1:ilderlal:1jdte:teEi«?mI
+48. Und er sah, dass sie im Rudern Not litten; denn der Wind war ihnen entgegen. Und um die vierte Nachtwache kommt er zu ihnen, auf dem Meere wandelnd und er wollte bei ihnen vorübergehen.
+49. Arg sie ihn aber auf dem Meere wandeln sahen, meinten sie, es wäre ein Gespenst, und schrieen. -
+50. Denn sie sahen ihn alle und erschracken. Und er redete alsobald mit ihnen und sprach: Seid getrost! Ich bin's; fürchtet euch nicht!
+5l. Und er stieg zu ihnen in das Schiff, und der Wind legte sich. Und sie erstaunten bei sich selbst über die Massen und verwunderten sich.
+52. Denn sie waren nicht verständig geworden über den Broten; denn ihr Herz war verhärtet.
+53. Und sie fuhren hinüber und kamen in das Land Genesaret und landeten. -
 54. Und als sie aus dem Schiffe traten, erkannten die Leute ihn alsobald,
 55. und durchliefen die ganze umliegende Landschaft und fingen an, die Kranken auf den Betten herbeizutragen, wo sie hörten, dass er da sei.
-56. Und wo er einzog m Flecken oder Städte oder Dörfer, da legten sie die Kranken auf die Gassen und baten ihn, dass sie nur den Saum seines Kleides anrühren durften. Und so Viele ihn anrührten, die wurden gesund. 
+56. Und wo er einzog in Flecken oder Städte oder Dörfer, da legten sie die Kranken auf die Gassen und baten ihn, dass sie nur den Saum seines Kleides anrühren durften. Und so Viele ihn anrührten, die wurden gesund. 
 Markus 7
 1. Und es versammelten sich zu ihm die Pharisäer und etliche Schriftgelehrte, die von Jerusalem gekommen waren
-2. und etliche seiner Jünger mit gemeinen, das ist mit ungewaschenen Händen Brot essen sahen;
+2. und als sie etliche seiner Jünger mit gemeinen, das ist mit ungewaschenen Händen Brot essen sahen;
 3. Denn die Pharisäer und alle Juden essen nicht, sie haben denn die Hände bis zum Gelenk gewaschen, indem sie die Satzung der Aeltesten halten.
 4. Und wenn sie vom Markte kommen, essen sie nicht, ohne sich zu baden. Und noch viel anderes haben sie zu halten angenommen, nämlich das Untertauchen von Bechern und Krügen und ehernen Geschirren und Stühlen.
 5. Da fragten ihn die Pharisäer und Schriftgelehrten: Warum wandeln deine Jünger nicht nach der Satzung der Aeltesten, sondern essen das Brot mit ungewaschenen Händen?
-6. Er aber antwortete und sprach zu ihnen: Trefflich hat Jesajas von euch Heuchlern geweissaget, wie geschrieben steht: »Dieses Volk ehrt mich mit den Lippen, aber ihr Herz ist ferne von mir.
-7. Aber vergeblich verehren sie mich, weil sie Lehren vortragen, welche Gebote der Menschen sind.
-8. Denn ihr verlasset das Gebot Gottes und haltet die Satzung der Menschen, das Untertauchen von Krügen und Bechern, und viel anderes dergleichen thut ihr. —-
-9. Und er sprach zu ihnen: Wohl fein verwerfet ihr das Gebot Gottes, aus dass ihr eure Satzung haltet.
-1O. Denn Moses hat gesagt: ,,Ehre deinen Vater und deine Mutter;« und : »Wer Vater oder Mutter flucht, der soll des Todes sterben.«
-11. Ihr aber saget: Wenn Jemand zum Vater oder» zur Mutter spricht: Korban, d.h. es ist zum Opfer ver???gabt, was dir von mir zu Gute kommen sollte;
+6. Er aber antwortete und sprach zu ihnen: Trefflich hat Jesajas von euch Heuchlern geweissaget, wie geschrieben steht: "Dieses Volk ehrt mich mit den Lippen, aber ihr Herz ist ferne von mir.
+7. Aber vergeblich verehren sie mich, weil sie Lehren vortragen, welche Gebote der Menschen sind."
+8. Denn ihr verlasset das Gebot Gottes und haltet die Satzung der Menschen, das Untertauchen von Krügen und Bechern, und viel anderes dergleichen thut ihr. -
+9. Und er sprach zu ihnen: Wohl fein verwerfet ihr das Gebot Gottes, auf dass ihr eure Satzung haltet.
+1O. Denn Moses hat gesagt: "Ehre deinen Vater und deine Mutter;" und :"Wer Vater oder Mutter flucht, der soll des Todes sterben."
+11. Ihr aber saget: Wenn Jemand zum Vater oder zur Mutter spricht: Korban, d.h. es ist zum Opfer vergabt, was dir von mir zu Gute kommen sollte;
 12. so muss er für seinen Vater oder seine Mutter nichts weiter thun.
 13. Also hebet ihr mit eurer Satzung, die ihr aufgesetzt habet, das Wort Gottes auf; und dergleichen thut ihr viel.
 14. Und er rief alles Volk zu sich und sprach zu ihnen: Höret mir Alle zu und merket!
 15. Es ist nichts ausser dem Menschen, das, wenn es in ihn hineingeht, ihn verunreinigen kann; sondern was von ihm ausgeht, das ist es, was den Menschen verunreinigt.
 16. Hat Jemand Ohren zu hören, der höre!
-17. Und als ers vom Volke weg das ausgegangen????, fragten ihn seine Jünger über das??? Gleichniss.
-18. Fabier sprach zu ihnen: Seid auch ihr so unverständig? Merket ihr nicht, dass alles, was von aussen in den Menschen hineingeht, ihn nicht verunreinigen kann?
+17. Und als er vom Volke weg in das Haus gegangen, fragten ihn seine Jünger über das Gleichniss.
+18. Und er sprach zu ihnen: Seid auch ihr so unverständig? Merket ihr nicht, dass alles, was von aussen in den Menschen hineingeht, ihn nicht verunreinigen kann?
 19. Denn es geht nicht in sein Herz, sondern in den Bauch; und geht fort durch den natürlichen Weg, der alle Speisen reinigt.
-20. Er sprach aber: Was von dein Menschen ausgeht, das verunreinigt den Menschen.
+20. Er sprach aber: Was von dem Menschen ausgeht, das verunreinigt den Menschen.
 21. Denn von innen, aus dem Herzen der Menschen, kommen hervor die bösen Gedanken, Ehebruch, Unzucht, Mord,
-22. Diebstahl, Geiz, Bosheit, Betrug, Ueppigkeit, Neid, Lästerung, Hoffart, Unvernunft. —-
+22. Diebstahl, Geiz, Bosheit, Betrug, Ueppigkeit, Neid, Lästerung, Hoffart, Unvernunft. -
 23. All dies Böse geht von innen heraus und verunreinigt den Menschen.
 24. Und er erhob sich von da und begab sich in die Gegend zwischen Tyrus und Sidon. Und trat in ein Haus, wollte aber nicht, dass es Jemand erfahre, und konnte doch nicht verborgen bleiben.
 25. Denn ein Weib hatte von ihm gehört, deren Töchterlein einen unreinen Geist hatte, und sie kam und fiel ihm zu Füssen;
 26. sie war aber ein griechisches Weib, aus Syrophönicien gebürtig; und sie bat ihn, dass er den Dämon von ihrer Tochter austreibe.
-27. Aber Jesus sprach zu ihr: Lass zuvor die Kinder satt werden! Denn es ist nicht sein, dass man das Brot der Kinder nehme und werfe es den Hündlein vor.
+27. Aber Jesus sprach zu ihr: Lass zuvor die Kinder satt werden! Denn es ist nicht fein, dass man das Brot der Kinder nehme und werfe es den Hündlein vor.
 28. Sie aber antwortete und sprach zu ihm: Ja, Herr; denn die Hündlein unter dem Tisch essen von den Brosamen der Kinder!
 29. Und er sprach zu ihr: Um dieses Wortes willen gehe hin; der Dämon ist von deiner Tochter ausgefahren.
 30. Und als sie in ihr Haus kam, fand sie den Dämon ausgefahren und die Tochter auf dem Bette liegend.
 31. Und er verliess das Gebiet von Tyrus wieder und begab sich durch Sidon nach dem galiläischen Meer, mitten in die Landschaft der zehn Städte.
 32. Und sie brachten einen Tauben zu ihm, der kaum reden konnte, und baten ihn, dass er ihm die Hand auflege.
-33. Und er na3m ihn von dem Volk besonders, legte seine Finger in seine Ohren, und berührte seine Zunge mit Speichel.
-34. Dann blickte er gen Himmel, seuE,te und sprach zu ihm: HephatPa, das ???heisst???, thue dich auf!
+33. Und er nahm ihn von dem Volk besonders, legte seine Finger in seine Ohren, und berührte seine Zunge mit Speichel.
+34. Dann blickte er gen Himmel, seufzte und sprach zu ihm: Hephatha, das ist, thue dich auf!
 35. Und alsobald wurden seine Ohren aufgethan und das Band seiner Zunge gelöst, und er redete richtig.
-36. Und er verbot ihnen, das; sie es Niemand sagen sollten; aber je mehr er es ihnen verbot, desto mehr machten sie es kund.
+36. Und er verbot ihnen, dass sie es Niemand sagen sollten; aber je mehr er es ihnen verbot, desto mehr machten sie es kund.
 37. Und sie erstaunten über die Massen und sprachen: Er hat alles wohl gemacht! Die Tauben macht er hörend und die Sprachlosen redend!
 Markus 8
-l. In denselben Tagen, als sehr viel Volk zugegen war und sie nichts zu essen hatten, berief Jesus seine Jünger zu sich und sprach zu ihnen:
+1. In denselben Tagen, als sehr viel Volk zugegen war und sie nichts zu essen hatten, berief Jesus seine Jünger zu sich und sprach zu ihnen:
 2. Mich jammert des Volkes; denn sie verharren nun drei Tage bei mir und haben nichts zu essen,
-3. und wenn ich sie nüchtern nach H???ause lasse, so werden sie auf dem Wege erliegen: denn etliche von ihnen kommen weit her.
+3. und wenn ich sie nüchtern nach Hause lasse, so werden sie auf dem Wege erliegen: denn etliche von ihnen kommen weit her.
 4. Und seine Jünger antworteten ihm: Woher könnte Jemand diese hier in der Wüste mit Brot sättigen?
 5. Und er fragte sie: Wie viele Brote habt ihr? Sie sprachen: Sieben.
-6. Und er befahl dem Volke, Sich auf die Erde niederzusetzen, und nahm die sieben Brote, dankte, brach sie und gab sie seinen Jüngern, zum weitergehen. Und sie legten diese sieben dem Volke vor.
+6. Und er befahl dem Volke, Sich auf die Erde niederzusetzen, und nahm die sieben Brote, dankte, brach sie und gab sie seinen Jüngern, zum weitergeben. Und sie legten diese sieben dem Volke vor.
 7. Sie hatten auch noch ein wenig Fische; und nach einem Segensspruch befahl er auch diese vorzulegen.
 8. Und sie assen und wurden satt und hoben von übrig gebliebenen Brocken noch sieben Körbe auf.
 9  Derer aber, die gegessen hatten, waren bei Viertausend und er entliess sie.
 10. Und alsobald stieg er in das Schiff mit seinen Jüngern und kam in die Gegend Dalmanutha. 
-11. Und die Pharisäer gingen hinaus und fingen an, sich mit ihm zu besprechen, indem sie von ihm ein Zeichen vom Hi!-time forderten, um ihn auf die Probe zu steilen.
-12. und er seufzte in seinem GS!stS und spricht Warum fordert dieses Geschlecht ein Zeichen? Wahrlich, ich sage euch, es wird diesem Geschlechte kein Zeichen gegeben werden.
-13. Und er liess Bi e,»lstieg wieder in das Schiff und fuhr inu er
+11. Und die Pharisäer gingen hinaus und fingen an, sich mit ihm zu besprechen, indem sie von ihm ein Zeichen vom Himmel forderten, um ihn auf die Probe zu stellen.
+12. und er seufzte in seinem Geist und spricht Warum fordert dieses Geschlecht ein Zeichen? Wahrlich, ich sage euch, es wird diesem Geschlechte kein Zeichen gegeben werden.
+13. Und er liess sie, stieg wieder in das Schiff und fuhr hinüber.
 14. Und sie hatten vergessen, Brote mitzunehmen, und hatten nicht mehr als ein Brot bei sich im Schiff.
-15. Und er gebot ihnen und sprach: Sehet zu, hütet euch vor gern ((«Z5auet1c teidgse get 5FkF’rts-Er 1ä1dd L-for em auereie e eroe. . n " besprachen sich; unter einander und fagtet:e: Agnus wH:sd;ch teilst; Bsrot clhaben!
-17.h Und a e ei: mer e, pra er zu inen: Was ;nag)et ihr euch darüber Gedanken, dass ihr kein Brot habt? Verstehet ihr noch nicht und b(;grZi fek Eh? ns)ch Yicht1?8 Fbbttihå noch euer er ar e e erz. . a uge und sehet nicht: und Ohren und höret nicht n; ji-1«ndf Rufst bniclå;: daran;
-19. Alss igJ die un ro e ra unter te fünftausend, wie viel Körbe voll Brocken habt ihr aufgehoben? Sie sprachen zu ihm: Zwölf!
-20. Und als ich die Sieben unter die Viertausend brach, wire; E)iel9Korbe tvollckBrockeEiZ häibt»ih1å1auLf1ge- ge o en. Sie pra )en: "ie en. . d er sprach zu ihnen: Was seid ihr denn noch sp2Fm1krkf)täsl'digk? ch B ths  d u d . n ie ommen na e at a; n man bringt ihm einen Binden und bittet ihn, dass er ihn anrühre.
-23. Und er nahm den ;ZlinFelnckbei hder Hatt? Ein? führte ihn vor den e en hinaus. n spie ihm au die Augen, legte ihm die Hände auf und fragte ihn, ob er etwas sehe.
-24. Und er blickte auf und sprach: Ich sehe die Leute wandeln, ;i»ls gi»hed ich Bäume!
-25. i?iesrTiuf eg e er ie an e no elnma an seine Augen und liess ihn ausblicken; und er war wieder hergestellt und sah alles deutlich.
+15. Und er gebot ihnen und sprach: Sehet zu, hütet euch vor dem Sauerteige der Pharisäer und vor dem Sauerteige des Herodes!
+16. Und sie besprachen sich unter einander und sagten: Wenn wir doch kein Brot haben!
+17. Und als es Jesus merkte, sprach er zu ihnen: Was machet ihr euch darüber Gedanken, dass ihr kein Brot habt? Verstehet ihr noch nicht und begreifet ihr noch nicht? Habt ihr noch euer verhärtetes Herz?
+18. Habt Augen und sehet nicht; und Ohren und höret nicht; und denket nicht daran?
+19. Als ich die fünf Brote brach unter die Fünftausend, wie viel Körbe voll Brocken habt ihr aufgehoben? Sie sprachen zu ihm: Zwölf!
+20. Und als ich die Sieben unter die Viertausend brach, wie viel Körbe voll Brocken habt ihr aufgehoben? Sie sprachen: Sieben!
+21. Und er sprach zu ihnen: Was seid ihr denn noch so unverständig?
+22. Und sie kommen nach Bethsaida; und man bringt einen Blinden und bittet ihn, dass er ihn anrühre.
+23. Und er nahm den Blinden bei der Hand und führte ihn vor den Flecken hinaus. Und spie ihm auf die Augen, legte ihm die Hände auf und fragte ihn, ob er etwas sehe.
+24. Und er blickte auf und sprach: Ich sehe die Leute wandeln, als sähe ich Bäume!
+25. Hierauf legte er die Hände noch einmal auf seine Augen und liess ihn aufblicken; und er war wieder hergestellt udn sah alles deutlich.
 26. Und er schickte ihn in sein Haus, und sprach: Du sollst nicht in den Flecken hineingehen, noch es Jemand in dem Flecken sagen.
-27. Und Jesus ging samt seinen Jüngern hinaus in die Flecken bei Cäsarea Philippi und auf dem Wege fragte er seine Jünger und sprach zu ihnen: er sagen die Leute, dass ich sei?
-28. Sie antworteten: Du seiest Johannes der Täufer; und andere, du ZieskplEtlicis; Rades? Eber, dfi; s3eft eines: der U) )c Ell. . U St All ZU 1 liest! Ihr aber, wer saget ihr, dass ich sei? Da antwortete Petrus und sprach zu ihm: Du bist der Christus!
-30. Und er verbot Ihnen ferltkstli, dass sie Niemand von ihm a e o en. ZEIT? Und er fing an sie zu lehren, dass des Menschen Sohn viel leiden müsse und von den Aeltesten und Hohenpriestern und Schriftgelehrten verworfen und getötet werden und nach drei Tagen wieder auferstehen.
-32. Und er redete das Wort frei unverhohlen. Und Petrus nahm ihn zu sich und fing zu ihm z? hJek1,k)r?n .  Er aber wem te i um und an eine Jünger an und beschalt den Petrus, und fpk«ifich: -hebe dich weg von mir, Satan! denn du denkst nicht göttlich, sondern menschlich!
-34. Und er berief das Volk 'alnt seinen Jüngern herzu und sprach zu ihnen: Wer mir nachkommen will, der verleugne sich selbst und nehme sein Kreuz auf sich und folge mir nach!
-85. Denn wer seine Seele retten will, der wird sie verlieren; wer aber seine Seele verliert um meinetwillen und um des Evangeliums willen, der wird sie retten
+27. Und Jesus ging samt seinen Jüngern hinaus in die Flecken bei Cäsarea Philippi; und auf dem Wege fragte er seine Jünger und sprach zu ihnen: Wer sagen die Leute, dass ich sei?
+28. Sie antworteten: Du seiest Johannes der Täufer; und andere, du seiest Elias; andere aber, du seiest einer der Propheten.
+29. Und er sprach zu ihnen: Ihr aber, wer saget ihr, dass ich sei? Da antwortete Petrus und sprach zu ihm: Du bist der Christus!
+30. Und er verbot ihnen ernstlich, dass sie Niemand von ihm sagen sollten.
+31. Und er fing an sie zu lehren, dass des Menschen Sohn viel leiden müsse und von den Aeltesten und Hohenpriestern und Schriftgelehrten verworfen und getötet werden und nach drei Tagen wieder auferstehen.
+32. Und er redete das Wort frei unverhohlen. Und Petrus nahm in zu sich und fing an ihm zu wehren.
+33. Er aber wandte sich um und sah seine Jünger an und beschalt den Petrus, und sprach: Hebe dich weg von mir, Satan! denn du denkst nicht göttlich, sondern menschlich!
+34. Und er berief das Volk samt seinen Jüngern herzu und sprach zu ihnen: Wer mir nachkommen will, der verleugne sich selbst und nehme sein Kreuz auf sich und folge mir nach!
+35. Denn wer seine Seele retten will, der wird sie verlieren; wer aber seine Seele verliert um meinetwillen und um des Evangeliums willen, der wird sie retten
 36. Denn was hülfe es dem Menschen, wenn er die ganze Welt gewänne, und büsste seine Seele ein?
 37. Oder was will ein Mensch zum Lösegeld seiner Seele geben?
-38. Denn wer sich meiner und meiner Worte schämt unter ieFem ehebrecherischen und sündlichen Geschlechte, dessen wird sich auch des Menschen Sohn schämen, wann er kommen wird in der Herrlichkeit seines Vaters mit den heiligen Engeln.
+38. Denn wer sich meiner und meiner Worte schämt unter diesem ehebrecherischen und sündlichen Geschlechte, dessen wird sich auch des Menschen Sohn schämen, wann er kommen wird in der Herrlichkeit seines Vaters mit den heiligen Engeln.
 39. Und er sprach zu ihnen: Wahrlich, ich sage euch, es sind Etliche derer, die hier stehen, die den Tod nicht schmecken werden, bis sie gesehen haben das Reich Gottes kommen mit Kraft.
 Markus 9
 1. Und nach sechs Tagen nimmt Jesus den Petrus und Jakobus und Johannes zu sich und führt sie allein beiseite auf einen hohen Berg.
 2. Und er ward vor ihnen verklärt,
 3. und seine Kleider wurden glänzend, sehr weiss wie Schnee, wie sie kein Bleicher auf Erden so weiss machen kann.
 4. Und es erschien ihnen Elias mit Mose, die redeten mit Jesu.
-5. Und Petrus hob an und»sprach zu Jesu: Rabbi, es ist gut, dass wir hier sind; und wir wollen rei Hütten machen, dir eine und Muse eine und Elia eine.
+5. Und Petrus hob an und sprach zu Jesu: Rabbi, es ist gut, dass wir hier sind; und wir wollen drei Hütten machen, dir eine und Mose eine und Elia eine.
 6. Denn er wusste nicht was er sagte; denn sie waren voll Furcht.
-7. Und eine Wolke überschattete sie, und eine Stimme kam aus der Wolke, die sprach: Dies ist mein geliebter Sohn; den sollt ihr hören!  Und plötzlich, als sie sich umsahen, sahen te Niemand mehr, als Jesum allein bei ihnen.
+7. Und eine Wolke überschattete sie, und eine Stimme kam aus der Wolke, die sprach: Dies ist mein geliebter Sohn; den sollt ihr hören!
+8. Und plötzlich, als sie sich umsahen, sahen sie Niemand mehr, als Jesum allein bei ihnen.
 9. Als sie aber vom Berg herabgingen, verbot er ihnen, dass sie Niemand erzählen sollten, was sie gesehen, bis des Menschen Sohn von den Toten auferstanden wäre.
 10. Und sie behielten das Wort bei sich selbst und besprachen sich unter einander, was das Auferstehen von den Toten wäre.
-11. Und sie fragten ihn und sprachen: Warum sagen die Schriftgelehrten, ass Elias zuvor kommen müsse?
+11. Und sie fragten ihn und sprachen: Warum sagen die Schriftgelehrten, dass Elias zuvor kommen müsse?
 12. Er aber antwortete und sprach zu ihnen: Elias kommt zwar zuvor und stellt alles her; und wie steht von des Menschen Sohn geschrieben? Dass er viel müsse leiden und verachtet werden!
-13. Aber ich sage euch, dass Eins schon gekommen ist, und sie thaten ihm, was sie wollten, wie von ihm geschrieben steht.
-14. Und als er zu seinen Jüngern gekommen, sah er viel Volk um sie her und Schriftgelehrte, die sich mit ihnen bessern- chen.
+13. Aber ich sage euch, dass Elias schon gekommen ist, und sie thaten ihm, was sie wollten, wie von ihm geschrieben steht.
+14. Und als er zu seinen Jüngern gekommen, sah er viel Volk um sie her und Schriftgelehrte, die sich mit ihnen besprachen.
 15. Und alsobald geriet alles Volk in Bewegung, da sie ihn sahen, und sie liefen herzu und grüssten ihn.
-16. Und er fragte die Schriftgelehrten: Was besprechet Ihr euch mit ihnen?
-17. Und Einer aus Dem Volke antwortete und sprach: Meister, Ich habe meinen Sohn zu ihr gebracZt, der 9akC1Usn sprachlosen Geist; 
-l8. und Wo derselbe ihn ergreift, da reisst er ihn, und schäumt und knirscht mit seinen H»l3k)11SU- Und wird steif; und ich habe deinen Jüngern gesagt, dass sie ihn austreiben sollten, aber sie??? vermochten es nicht!
-19. Er aber antwortete ihnen und sprach; O du ungläubiges Geschlecht, wie lange soll ich bei euch sein? wie lange soll ich euch ertragen? Bringet ihn her zu mir!
+16. Und er fragte die Schriftgelehrten: Was besprechet ihr euch mit ihnen?
+17. Und Einer aus Dem Volke antwortete und sprach: Meister, Ich habe meinen Sohn zu dir gebracht, der hat einen sprachlosen Geist;
+18. und wo derselbe ihn ergreift, da reisst er ihn, und schäumt und knirscht mit seinen Zähnen, und wird steif; und ich habe deinen Jüngern gesagt, dass sie ihn austreiben sollten; aber sie vermochten es nicht!
+19. Er aber antwortete ihnen und sprach: O du ungläubiges Geschlecht, wie lange soll ich bei euch sein? wie lange soll ich euch ertragen? Bringet ihn her zu mir!
 20. Und sie brachten ihn her zu ihm. Und sobald er ihn sah, riss ihn der Geist herum, und er fiel auf die Erde, wälzte sich und schäumte.
-21. Und» er fragte seinen Vater: je lange geht es ihm schon so? Er Epra ; Von Kindheit auf;
-22. und er hat i n -If: ins Feuer und ins Wasser geworfen, dass er ihn umbrächte; kannst du aber etwas, so erbarme dich über uns und l1il:g uns! -
-23. Jesus aber sprach zu ihm: Das kommt darauf an, ob du glauben kannst! Wer glaubt, dem ist alles möglich! —
-4. Und alsobald schrie der Vater des Knaben mit Thränen und sprach: Herr, ich glaube; hilf meinem Unglauben!
-25. Da nun Jesus das Volk herzulaufen sah, beschalt er den unreinen Geist und sprach zu ihm: Du prachloser und tauber Geist,
-1. Ich gebiete dir, fahre aus von ihm und fahre nicht mehr in ihn!
+21. Und er fragte seinen Vater: Wie lange geht es ihm schon so? Er sprach: Von Kindheit auf;
+22. und er hat ihn oft ins Feuer und ins Wasser geworfen, dass er ihn umbrächte; kannst du aber etwas, so erbarme dich über uns und hilf uns! -
+23. Jesus aber sprach zu ihm: Das kommt darauf an, ob du glauben kannst! Wer glaubt, dem ist alles möglich! -
+24. Und alsobald schrie der Vater des Knaben mit Thränen und sprach: Herr, ich glaube; hilf meinem Unglauben!
+25. Da nun Jesus das Volk herzulaufen sah, beschalt er den unreinen Geist und sprach zu ihm: Du sprachloser und tauber Geist, ich gebiete dir, fahre aus von ihm und fahre nicht mehr in ihn!
 26. Da schrie er und riss ihn heftig herum und fuhr aus; und der Knabe ward wie tot, dass auch Viele sagten: Er ist tot!
-27. Aber Jesus ergriff ihn bei der Hand und richtete ihn auf; und er stand aus.
+27. Aber Jesus ergriff ihn bei der Hand und richtete ihn auf; und er stand auf.
 28. Und als er in das Haus kam, fragten ihn seine Jünger besonders: Warum haben wir ihn nicht austreiben können?
-29. Und er sprach zu ihnen: Diese Art kann durch  ausfahren, als durch Beten und a en.
+29. Und er sprach zu ihnen: Diese Art kann durch nichts ausfahren, als durch Beten und Fasten.
 30. Und sie gingen von da weg und zogen durch Galiläa. Und er wollte nicht, dass es Jemand erfahren sollte.
 31. Denn er lehrte seine Jünger und sprach zu ihnen: Des Menschen Sohn wird in der Menschen Hände übergeben; und sie werden ihn töten, und wann er getötet ist, wird er am dritten Tage wieder auferstehen.
 32. Sie aber verstanden das Wort nicht und fürchteten sich, ihn zu fragen.
 33. Und er kam gen Capernaum; und als er im Hause war, fragte er sie: Was habet ihr auf der Strasse mit einander verhandelt?
 34. Sie aber schwiegen still; denn sie hatten auf der Strasse mit einander verhandelt, wer der Grösste sei.
-35. Und er setzte sich und rief den ZwölEn und sprach zu ihnen: So Jemand der Erste sein will, der sei unter allen der Letzte und aller Diener.
-36. Und er nahm ein Kind und stellte es mitten unter sie; und nachdem er es in die Arme genommen, sprach es zu ihnen:
-37. Wer ein solches Kindlein in meinem Namen aufnimmt. der nimmt mich auf; und wer mich aufnimmt, der nimmt nicht mich auf, sondern den, der mich gesandt hat. »
-38. Jo2B;1nnes aber antwortete ihm und sprach: Meister, wir sahen Einen, er uns nicht nachfolgt, in deinem Namen Dämonen austreiben, und wir wehrten es ihm, darum, weil er uns nicht nachfolgt.
-39. Jesus aber sprach: Wehret  es ihm nicht! Denn wer ein Wunder in meinem Namen thut, wird mich nicht bald lästern können.
+35. Und er setzte sich und rief den Zwölfen und sprach zu ihnen: So Jemand der Erste sein will, der sei unter allen der Letzte und aller Diener.
+36. Und er nahm ein Kind und stellte es mitten unter sie; und nachdem er es in die Arme genommen, sprach er zu ihnen:
+37. Wer ein solches Kindlein in meinem Namen aufnimmt, der nimmt mich auf; und wer mich aufnimmt, der nimmt nicht mich auf, sondern den, der mich gesandt hat.
+38. Johannes aber antwortete ihm und sprach: Meister, wir sahen Einen, er uns nicht nachfolgt, in deinem Namen Dämonen austreiben, und wir wehrten es ihm, darum, weil er uns nicht nachfolgt.
+39. Jesus aber sprach: Wehret es ihm nicht! Denn wer ein Wunder in meinem Namen thut, wird mich nicht bald lästern können.
 40. Denn wer nicht wider uns ist, der ist für uns.
-41. Denn wer euch einen Becher Wasser in meinem Namen trinken gibt, darum weil ihr Christo angehört, wahrlich, ich fasse euch, dem wird sein Lohn nicht ausbleiben. -- 
-42. Wer aber einem dieser Kleinen, die an mich glauben, Aergerniss gibt, dem wäre besser. dass ein Mühlstein um seinen Hals gelegt, und er ins Meer geworfen würde.
-43. Und wenn deine Hand dich Zum AergerniE macht, so haue sie ab; Es it ir besser, da du als ein Krüppel In das Leben eingehest, als dass du beide Hände habest und fahrest in das unauslo'schI1che Feuer,
+41. Denn wer euch einen Becher Wasser in meinem Namen trinken gibt, darum weil ihr Christo angehört, wahrlich, ich sage euch, dem wird sein Lohn nicht ausbleiben. -
+42. Wer aber einem dieser Kleinen, die an mich glauben, Aergerniss gibt, dem wäre besser, dass ein Mühlstein um seinen Hals gelegt, und er ins Meer geworfen würde.
+43. Und wenn deine Hand dich Zum Aergerniss macht, so haue sie ab! Es ist besser, dass du als Krüppel in das Leben eingehest, als dass du beide Hände habest und fahrest in das unauslöschliche Feuer,
 44. wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.
 45. Und wenn dein Fuss dich zum Aergerniss macht, so haue ihn ab! Es ist dir besser, dass du lahm in das Leben eingehest, als dass du beide Füsse habest und werdest in die Hölle geworfen, in das unauslöschliche Feuer,
 46. wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.
-47. Und wenn dein Auge dich zum Aergerniss macht, so reiss’ es aus! Es ist dir besser, dass du einäugig in das Reich Gottes eingehst, als dass du zwei Augen habest und werdest in das höllische Feuer geworfen,
+47. Und wenn dein Auge dich zum Aergerniss macht, so reiss' es aus! Es ist dir besser, dass du einäugig in das Reich Gottes eingehst, als dass du zwei Augen habest und werdest in das höllische Feuer geworfen,
 48. wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.
 49. Denn ein Jeglicher muss mit Feuer gesalzen werden, wie jedes Opfer mit Salz gesalzen wird.
 50. Das Salz ist ein gutes Ding; wenn aber das Salz salzlos wird, womit wollet ihr es würzen? Habt Salz bei euch und Frieden unter einander!
@@ -374,13 +388,13 @@ Markus 10
 3. Er aber antwortete und sprach zu ihnen: Was hat euch Moses geboten»
 4. Sie sprachen: Moses hat erlaubt einen Scheidebrief zu schreiben und sich zu scheiden.
 5. Und Jesus antwortete und sprach zu ihnen: Um eueres Herzens Härtigkeit willen hat er euch dieses Gebot vorgeschrieben; 
-S. am AncEan, der Schöpfung aber hat Gott sie geschaffen Mann und Weib.
+6. am AncEan, der Schöpfung aber hat Gott sie geschaffen Mann und Weib.
 7. Darum wird ein Mensch Vater und Mutter verlassen und seinem Weibe anhangen
 8. und die Zwei werden Ein Fleisch sein. So sind sie nicht mehr Zwei, sondern Ein» Fleisch.
 9. Was nun Gott zusammengefügt hat, das soll der Mensch nicht scheiden!
 10. Und seine» Junger fragten ihn zu Hause nochmals darüber. II. Und er B-1zrach zu ihnen: Wer sich von seinem Weibe scheidet und eine andere zur Ehe nimmt, der bricht an ihr die Ehe.
 12. Und wenn ein Weib sich von ihrem Manne scheidet und einen andern nimmt, so bricht sie die Ehe.
-13. Und sie??? brachten Kindlein zu ihm, dass er sie berühre die Jünger aber beschalten die, welche sie brachten.
+13. Und sie brachten Kindlein zu ihm, dass er sie berühre die Jünger aber beschalten die, welche sie brachten.
 14. Da das Jesus sah, ward er unwillig und sprach zu ihnen: Lasset die Kindlein zu mir kommen und wehret es ihnen nicht, denn solcher ist das Reich Gottes!
 15. Wahrlicht - ich sage euch: Wer das Reich Gottes nicht annimmt wie ein Kind, der wird nicht in dasselbe hinein kommen!
 16. Und er nahm sie auf die Arme, legte ihnen die Hände auf und segnete sie.
@@ -420,7 +434,8 @@ Markus 11
 3. Und so Jemand zu euch spricht: Warum thut ihr das? so saget: Der Herr bedarf seiner; so wird er es alsobald hierher schicken.
 4. Da gingen sie hin und fanden ein Fallen angebunden an der Thus: aussen am Scheidewege und lösten es ab.
 5. Und Etliche der Umstehenden sprachen zu ihnen: Was machet ihr, dass ihr das Fallen ab- L5set? 
-6. Sie aber sagten zu ihnen, wie Jesus befohlen hatte, und sie hiessen es L);sen.  lUntd sieh füh;:?tlei«id das-d Fiilsen zu; -J« u un e en i re ei er arau, un CI? ,«sptztC sich auf dasselbe.
+6. Sie aber sagten zu ihnen, wie Jesus befohlen hatte, und sie hiessen es L);sen.
+7. lUntd sieh füh;:?tlei«id das-d Fiilsen zu; -J« u un e en i re ei er arau, un CI? ,«sptztC sich auf dasselbe.
 8. Viele aber breiteten ihre Kleider auf den Weg; Andere H,lebC1! Zweige von den Bäumen und streuten Iä:dal1:I1ch73f:1stWexs .ch I. Und die vorangi3gs2n get! schrieen und sprachen: Hosianna?????! Gepriesen sei, der da kommt im Namen des Herrn!
 10. Gepriesen sei das NS1ch- THAT- da kommt im Namen des Herrn das Reich unsers Vaters David! Hosianna in der Höhe!
 11. Und Jesus zog in Jerusalem ein und in den Tempel und nachdem er alles besichtigt hatte, ging er, da es nun Abend war, mit den Zwölfen hinaus nach Bethanien.
