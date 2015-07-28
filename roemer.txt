@@ -22,7 +22,7 @@ Römer 1
 20. denn sein unsichtbares Wesen, das ist seine ewige Kraft und Gottheit, wird seit Erschaffung der Welt an den Werken durch Nachdenken wahrgenommen, also dass sie keine Entschuldigung haben.
 21. Dieweil sie denn, obschon sie Gott erkannten, ihn doch nicht priesen als Gott und ihm nicht dankten, sondern verweltlichten in ihren Gedanken und ihr unverständiges Herz verfinstert ward,
 22. und sie, da sie sich für weise hielten, zu Narren wurden
-23. und die Herrlichkeit des unvergänglichen Gottes vertauschten mit dem Bild eines vergänglichen Menschen und geflügelter und vierfüssiger und kriechender Tiere; —
+23. und die Herrlichkeit des unvergänglichen Gottes vertauschten mit dem Bild eines vergänglichen Menschen und geflügelter und vierfüssiger und kriechender Tiere; -
 24. darum hat sie auch Gott dahingegeben in die Gelüste ihrer Herzen, zur Unreinigkeit, zu entehren ihre eigenen Leiber unter einander,
 25. diejenigen, welche die Wahrheit Gottes verwandelten in die Lüge und dem Geschöpf mehr Ehre und Dienst erwiesen als dem Schöpfer, der da gelobet sei in Ewigkeit, Amen!
 26. Darum hat sie Gott auch dahingegeben in entehrende Leidenschaften. Denn ihre Weiber haben verwandelt den natürlichen Gebrauch in den widernatürlichen;
@@ -55,8 +55,8 @@ Römer 2
 20. ein Erzieher der Unverständigen, ein Lehrer der Unmündigen, als der den Inbegriff der Erkenntnis und der Wahrheit im Gesetze hat;
 21. wenn nun du, der du andere lehrst, dich selbst nicht lehrst; predigst, man solle nicht stehlen, und selber stiehlst,
 22. sagst, man solle nicht ehebrechen, und selbst die Ehe brichst; die Götzen verabscheust und dabei Tempelraub begehst;
-23. dich des Gesetzes rühmst und doch durch Uebertretung des Gesetzes Gott verunehrst; —
-24. wie geschrieben steht: "Der Name Gottes wird um euertwillen gelästert unter den Heiden;" —
+23. dich des Gesetzes rühmst und doch durch Uebertretung des Gesetzes Gott verunehrst; -
+24. wie geschrieben steht: "Der Name Gottes wird um euertwillen gelästert unter den Heiden;" -
 25. denn die Beschneidung hat nur Wert, wenn du das Gesetz hältst; bist du aber ein Uebertreter des Gesetzes, so ist deine Beschneidung schon zur Unbeschnittenheit geworden.
 26. Wenn nun der Unbeschnittene die Verordnungen des Gesetzes beobachtet, wird ihm nicht seine Unbeschnittenheit als Beschneidung angerechnet werden?
 27. Und wird nicht der von Natur Unbeschnittene, der das Gesetz erfüllt, dich richten, der du trotz buchstäblicher Beschneidung ein Uebertreter des Gesetzes bist?
@@ -272,8 +272,8 @@ Römer 10
 3. Denn weil sie die Gerechtigkeit Gottes  nicht erkennen und ihre eigene Gerechtigkeit auszurichten trachten, sind sie der Gerechtigkeit Gottes nicht unterthan.
 4. Denn Christus ist  des Gesetzes Erfüllung, zur Gerechtigkeit einem jeden, der da glaubt,
 5. Moses beschreibt nämlich die Gerechtigkeit, die durch das Gesetz kommt, also: "Welcher Mensch sie thut, der wird dadurch leben".
-6. Aber von der Gerechtigkeit durch den Glauben redet er so: "Sprich nicht in deinem Herzen: Wer will in den Himmel hinaufsteigen? - nämlich, um Christum herabzuholen —;
-7. oder wer will in den Abgrund hinuntersteigen? — nämlich, um Christum von den Toten zu holen!
+6. Aber von der Gerechtigkeit durch den Glauben redet er so: "Sprich nicht in deinem Herzen: Wer will in den Himmel hinaufsteigen? - nämlich, um Christum herabzuholen -;
+7. oder wer will in den Abgrund hinuntersteigen? - nämlich, um Christum von den Toten zu holen!
 8. Sondern was sagt er? Das Wort ist dir nahe, in deinem Mund und in deinem Herzen!" - nämlich das Wort des Glaubens, das wir predigen.
 9. Denn wenn du mit deinem Munde Jesum als Herrn bekennst udn in deinem Herzen glaubst, dass Gott ihn von den Toten auferweckt hat, so wirst du gerettet;
 10. denn mit dem Herzen glaubt man, um gerecht, und mit dem Munde bekennt man, um gerettet zu werden;
@@ -302,7 +302,7 @@ Römer 11
 11. Ich frage nun: Sind sie denn darum angestossen, damit sie fallen sollten? Das sei ferne! Sondern durch ihren Fall ward den Heiden das Heil zuteil, damit sie denselben nacheifern möchten.
 12. Wenn aber ihr Fall der Welt Reichtum und ihr Verlust der Heiden Reichtum, wie viel mehr ihre volle Zahl!
 13. Denn euch, den Heiden, sage ich; - so lang ich nun eben Heidenapostel bin, rühme ich mein Amt,
-14. ob ich nicht etwa mein Fleisch zum Nacheifern reizen und ihrer etliche erretten könnte; —
+14. ob ich nicht etwa mein Fleisch zum Nacheifern reizen und ihrer etliche erretten könnte; -
 15. warum sage ich: Wenn ihre Verwerfung der Welt Versöhnung war, was; würde die Annahme anders sein, als das Leben aus den Toten?
 16. Ist aber der Anbruch heilig, so ist es auch der Teig, und ist die Wurzel heilig, so sind es auch die Zweige.
 17. Wenn aber etliche der Zweige ausgebrochen wurden, und du als ein wilder Oelzweig unter sie eingepfropft und teilhaftig worden bist der Wurzel und der Fettigkeit des Oelbaums,
@@ -359,7 +359,7 @@ Römer 13
 9. Denn das: "Du sollst nicht ehebrechen, du sollst nicht töten, du sollst nicht stehlen, lass dich nicht gelüsten" - und welches andere Gebot es sei, das wird zusammengefasst in dem Wort: "Du sollst deinen Nächsten lieben wie dich selbst!"
 10. Die Liebe thut dem Nächsten nichts Böses; so ist nun die Liebe des Gesetzes Erfüllung.
 11. Und weil wir wissen, dass es hierzu hohe Zeit ist, weil die Stunde schon vorhanden ist, da wir vom Schlafe sollten ausgestanden sein; - denn jetzt ist unser Heil näher, als da wir gläubig wurden;
-12. die Nacht ist vorgerückt, der Tag ist nahe; — so lasset uns nun ablegen die Werke der Finsternis und anziehen die Waffen des Lichts;
+12. die Nacht ist vorgerückt, der Tag ist nahe; - so lasset uns nun ablegen die Werke der Finsternis und anziehen die Waffen des Lichts;
 13. lasst uns anständig wandeln als am Tage, nicht in Schmausereien und Schlemmereien, nicht in Unzucht und Ausschweifungen, nicht in Hader und Neid;
 14. sondern ziehet an den Herrn Jesum Christum, und pfleget das Fleisch nicht bis zur Erregung von Begierden! 
 Römer 14
@@ -397,7 +397,7 @@ Römer 15
 8. Ich sage aber, dass Jesus Christus ein Diener der Beschneidung gewesen sei, zu bestätigen die Verheissung an die Väter;
 9. dass aber die Heiden Gott loben um der Barmherzigkeit willen, wie geschrieben steht: "Darum will ich dich preisen unter den Heiden und deinem Namen lobsingen!"
 10. Und wiederum spricht er: "Freuet euch, ihr Heiden, mit seinem Volk!" -
-11. Und wiederum: "Lobet den Herrn, alle Heiden, preiset ihn, alle Völlker!" —
+11. Und wiederum: "Lobet den Herrn, alle Heiden, preiset ihn, alle Völlker!" -
 12. Und wiederum spricht Jesajas: "Es wird sein die Wurzel Jesses und der aufsteht, zu herrschen über die Heiden; auf den werden die Heiden hoffen".
 13. Der Gott aber der Hoffnung erfülle euch mit aller Freude und Frieden im Glauben, dass ihr reich seid in der Hoffnung, in der Kraft des heiligen Geistes!
 14. Ich habe aber, meine Brüder, die feste Ueberzeugung von euch, dass auch ihr selbst voll Gütigkeit seid, erfüllt mit aller Erkenntnis und fähig, einander zu ermahnen.

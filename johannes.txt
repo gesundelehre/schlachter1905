@@ -624,7 +624,7 @@ Johannes 13
 23. Es hatte aber einer seiner Jünger, den Jesus liebte, bei Tische seinen Platz an der Seite Jesu.
 24. Diesem nun winkt Simon Petrus, das; er forschen möchte, wer es wäre, von dem er redete
 25. Da legte sich derselbe an die Brust Jesu und spricht zu ihm: Herr, wer ist's?
-26. Jesus antwortete: Der ist's, dem ich den eingetunkten Bissen geben werde. Und er tunkt den Bissen ein und gibt ihn dem Judas, Simons Sohn, dem Ischar1oth. —
+26. Jesus antwortete: Der ist's, dem ich den eingetunkten Bissen geben werde. Und er tunkt den Bissen ein und gibt ihn dem Judas, Simons Sohn, dem Ischar1oth. -
 27. Und nach dem Bissen, da fuhr der Satan in ihn. Da spricht Jesus zu ihm: Was du thun willst, das thue bald!
 28. Das aber verstand Keiner von denen, die zu Tische sassen, wozu er es ihm sagte. -
 29. Denn Etliche meinten, weil Judas den Beutel hatte, so sage Jesus zu ihm: Kaufe, was wir zum Feste bedürfen; oder dass er den Armen etwas geben möchte.
@@ -670,9 +670,9 @@ Johannes 14
 30. Ich werde nicht mehr viel mit euch reden; denn es kommt der Fürst dieser Welt, und in mir hat er nichts;
 31. damit aber die Welt erkenne, dass ich meinen Vater liebe und also thue, wie mir der Vater befohlen hat, stehet auf und lasset uns von hinnen gehen!
 Johannes 15
-1. Ich bin der wahre Weinstock und mein Vater ist der Weingärtner. —
+1. Ich bin der wahre Weinstock und mein Vater ist der Weingärtner. -
 2. Jegliches Schoss an mir, das keine Frucht bringt, nimmt er weg; jedes fruchtbare aber reinigt er, auf dass es mehr Frucht bringe.
-3. Ihr seid schon rein, um des Wortes willen, das ich zu euch geredet habe. —
+3. Ihr seid schon rein, um des Wortes willen, das ich zu euch geredet habe. -
 4. Bleibet in mir, und ich bleibe in euch! Gleichwie das Rebschoss keine Frucht bringen kann, wenn es nicht am Weinstock bleibt, also auch ihr nicht, wenn ihr nicht in mir bleibt.
 5. Ich bin der Weinstock, ihr seid die Reben; wer in mir bleibt und ich in ihm, der bringt viel Frucht; denn getrennt von nur könnt ihr nichts thun.
 6. Wenn jemand nicht in mir bleibt, so wird er weggeworfen wie das Rebschoss und verdorrt; und solche sammelt man und wirft sie ins Feuer und sie brennen.
@@ -823,14 +823,14 @@ Johannes 19
 21. Da sprachen die Hohenpriester der Juden zu Pilatus: Schreibe nicht: Der König der Juden, sondern dass dieser gesagt hat: Ich bin der König der Juden.
 22. Pilatus antwortete: Was ich geschrieben habe, das habe ich geschrieben!
 23. Die Kriegsknechte nun, als sie Jesum gekreuzigt hatten, nahmen sie seine Kleider und machten vier Teile, einem jeglichen Kriegsknecht einen Teil; dazu den Leibrock. Der Leibrock aber war ohne Naht, von oben an gewoben durchaus.
-24. Da sprachen sie zu einander: Lasst uns den nicht zertrennen, sondern darum losen, wess er sein soll; — auf dass die Schrift erfüllet würde, die da spricht: Sie haben meine Kleider unter sich geteilt und über mein Gewand das Los geworfen. - Solches thaten die Kriegsknechte.
+24. Da sprachen sie zu einander: Lasst uns den nicht zertrennen, sondern darum losen, wess er sein soll; - auf dass die Schrift erfüllet würde, die da spricht: Sie haben meine Kleider unter sich geteilt und über mein Gewand das Los geworfen. - Solches thaten die Kriegsknechte.
 25. Es standen aber bei dem Kreuze Jesu seine Mutter und seiner Mutter Schwester, Maria, des Klopas Weib, und Maria Magdalena.
 26. Als nun Jesus die Mutter sah und den Jünger dabei stehen, den er liebte, spricht er zu seiner Mutter: Weib, siehe, das ist dein Sohn!
 27. Darauf spricht er zu dem Junger: Siehe, das ist deine Mutter! Und von der Stunde an nahm sie der Jünger zu sich.
 28. Nach diesem, da Jesus wusste, dass schon alles vollbracht sei, damit die Schrift erfüllet würde, spricht er: Mich dürstet!
 29. Da stand ein Gefäss voll Essig; sie aber füllten einen Schwamm mit Essig, legten ihn um einen Ysop und hielten es ihm an den Mund.
 30. Als nun Jesus den Essig genommen hatte, sprach er: Es ist vollbracht! Und er neigte das Haupt und übergab den Geist.
-31. Die Juden nun, damit die Leichname nicht am Kreise blieben den Sabbat über, — da eben Vorbereitung war; denn der Tag desselbigen Sabbats war gross — baten sie den Pilatus, dass ihnen die Schenkel zerschlagen und sie herabgenommen würden.
+31. Die Juden nun, damit die Leichname nicht am Kreise blieben den Sabbat über, - da eben Vorbereitung war; denn der Tag desselbigen Sabbats war gross - baten sie den Pilatus, dass ihnen die Schenkel zerschlagen und sie herabgenommen würden.
 32. Da kamen die Kriegsknechte und brachen dem ersten die Schenkel und dem andern, der mit ihm gekreuzigt war.
 33. Als sie aber zu Jesu kamen und sahen, dass er schon gestorben war, zerschlugen sie ihm die Schenkel nicht;
 34. sondern er Kriegsknechte einer durchbohrte seine Seite mit einem Speer, und alsbald floss Blut und Wasser heraus.
