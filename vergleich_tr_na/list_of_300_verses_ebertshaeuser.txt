@@ -120,45 +120,45 @@ Joh 17,11       - NA
 Joh 17,17       - TR
                 - 
 Joh 21,15       - TR
-Apg 2,30        - 
-Apg 2,47        - 
-Apg 3,20        - 
-Apg 6,3         - 
-Apg 7,30        - 
-Apg 7,37        - 
+Apg 2,30        - TR
+Apg 2,47        - TR
+Apg 3,20        - NA
+Apg 6,3         - TR
+Apg 7,30        - TR
+Apg 7,37        - TR
                 - 
-Apg 8,37        - 
-Apg 9,5-6       - 
-Apg 9,28        - 
-Apg 10,6        - 
-Apg 10,21       - 
-Apg 10,30       - 
+Apg 8,37        - TR
+Apg 9,5-6       - TR
+Apg 9,28        - TR
+Apg 10,6        - TR
+Apg 10,21       - TR
+Apg 10,30       - TR (in diesem Vers heisst es: "Vor 4 Tagen um diese Stunde, fastete und betete ich um die
+                -    neunte Stunde in meinem Hause."
+Apg 13,19-20    - TR 
+Apg 13,42       - NA
+Apg 15,11       - TR
+Apg 15,17-18    - TR
+Apg 15,24       - TR
                 - 
-Apg 13,19-20    - 
-Apg 13,42       - 
-Apg 15,11       - 
-Apg 15,17-18    - 
-Apg 15,24       - 
+Apg 15,34       - TR
+Apg 16,31       - TR 
+Apg 17,26       - TR
+Apg 17,30       - TR
+Apg 18,5        - NA
+Apg 18,21       - TR
+Apg 19,4        - TR
+Apg 19,10       - TR 
                 - 
-Apg 15,34       - 
-Apg 16,31       - 
-Apg 17,26       - 
-Apg 17,30       - 
-Apg 18,5        - 
-Apg 18,21       - 
-Apg 19,4        - 
-Apg 19,10       - 
+Apg 20,21       - TR 
+Apg 20,25       - TR 
+Apg 20,28       - NA (In diesem Versteil heisst es:"...seines eigenen (Sohnes).")
+Apg 21,25       - TR
+Apg 22,16       - NA
+Apg 24,6-8      - TR
                 - 
-Apg 20,21       - 
-Apg 20,25       - 
-Apg 20,28       - 
-Apg 21,25       - 
-Apg 22,16       - 
-Apg 24,6-8      - 
-                - 
-Apg 26,30       - 
-Apg 28,16       - 
-Apg 28,29       - 
+Apg 26,30       - NA
+Apg 28,16       - TR
+Apg 28,29       - TR
 Röm 1,16        - 
 Röm 1,29        - 
 Röm 1,31        - 
