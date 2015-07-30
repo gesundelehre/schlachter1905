@@ -159,47 +159,47 @@ Apg 24,6-8      - TR
 Apg 26,30       - NA
 Apg 28,16       - TR
 Apg 28,29       - TR
-Röm 1,16        - 
-Röm 1,29        - 
-Röm 1,31        - 
-Röm 6,11        - 
-Röm 8,1         - 
+Röm 1,16        - NA 
+Röm 1,29        - TR
+Röm 1,31        - TR
+Röm 6,11        - TR
+Röm 8,1         - TR
                 - 
-Röm 9,31        - 
-Röm 9,32        - 
-Röm 10,15       - 
-Röm 10,17       - 
-Röm 11,6        - 
-Röm 13,9        - 
+Röm 9,31        - NA
+Röm 9,32        - NA
+Röm 10,15       - TR
+Röm 10,17       - TR
+Röm 11,6        - TR
+Röm 13,9        - NA
                 - 
-Röm 14,6        - 
-Röm 14,9        - 
-Röm 14,10       - 
-Röm 15,29       - 
-Röm 16,24       - 
-1Kor 2,4        - 
+Röm 14,6        - TR
+Röm 14,9        - NA
+Röm 14,10       - TR
+Röm 15,29       - NA
+Röm 16,24       - TR
+1Kor 2,4        - TR
                 - 
-1Kor 2,10       - 
-1Kor 2,13       - 
-1Kor 3,3        - 
-1Kor 4,6        - 
-1Kor 5,5        - 
-1Kor 5,7        - 
-1Kor 6,20       - 
+1Kor 2,10       - TR
+1Kor 2,13       - NA
+1Kor 3,3        - TR
+1Kor 4,6        - NA
+1Kor 5,5        - TR
+1Kor 5,7        - TR
+1Kor 6,20       - NA
                 - 
-1Kor 7,3        - 
-1Kor 7,5        - 
-1Kor 9,18       - 
-1Kor 10,9       - 
-1Kor 10,28      - 
-1Kor 11,24      - 
-1Kor 11,29      - 
+1Kor 7,3        - NA
+1Kor 7,5        - NA 
+1Kor 9,18       - NA 
+1Kor 10,9       - TR
+1Kor 10,28      - NA
+1Kor 11,24      - TR
+1Kor 11,29      - TR
                 - 
-1Kor 12,3       - 
-1Kor 12,13      - 
-1Kor 14,37      - 
-1Kor 15,47      - 
-1Kor 16,22      - 
+1Kor 12,3       - TR
+1Kor 12,13      - NA
+1Kor 14,37      - TR
+1Kor 15,47      - TR 
+1Kor 16,22      - TR 
 2Kor 4,10       - 
 2Kor 4,14       - 
                 - 
