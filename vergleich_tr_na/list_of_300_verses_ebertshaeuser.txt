@@ -163,7 +163,7 @@ Röm 1,16        - NA
 Röm 1,29        - TR
 Röm 1,31        - TR
 Röm 6,11        - TR
-Röm 8,1         - TR
+Röm 8,1         - NA
                 - 
 Röm 9,31        - NA
 Röm 9,32        - NA
