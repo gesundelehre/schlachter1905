@@ -200,68 +200,68 @@ Röm 16,24       - TR
 1Kor 14,37      - TR
 1Kor 15,47      - TR 
 1Kor 16,22      - TR 
-2Kor 4,10       - 
-2Kor 4,14       - 
+2Kor 4,10       - NA
+2Kor 4,14       - NA
                 - 
-2Kor 5,17       - 
-2Kor 5,18       - 
-2Kor 11,31      - 
-2Kor 12,9       - 
-Gal 1,15        - 
-Gal 3,1         - 
-Gal 3,17        - 
+2Kor 5,17       - TR
+2Kor 5,18       - TR
+2Kor 11,31      - TR
+2Kor 12,9       - TR
+Gal 1,15        - TR
+Gal 3,1         - TR 
+Gal 3,17        - TR
                 - 
-Gal 4,7         - 
-Gal 5,19-21     - 
-Gal 6,15        - 
-Gal 6,17        - 
-Eph 1,18        - 
-Eph 3,9         - 
-Eph 3,14        - 
+Gal 4,7         - TR
+Gal 5,19-21     - TR
+Gal 6,15        - TR
+Gal 6,17        - NA
+Eph 1,18        - NA
+Eph 3,9         - NA
+Eph 3,14        - TR 
                 - 
-Eph 4,6         - 
-Eph 5,9         - 
-Eph 5,21        - 
-Eph 5,30        - 
-Eph 6,12        - 
-Phil 1,16-17    - 
-Phil 3,16       - 
+Eph 4,6         - NA
+Eph 5,9         - NA
+Eph 5,21        - NA
+Eph 5,30        - TR
+Eph 6,12        - NA 
+Phil 1,16-17    - NA
+Phil 3,16       - TR
                 - 
-Phil 4,13       - 
-Kol 1,2         - 
-Kol 1,14        - 
-Kol 2,2         - 
-Kol 2,11        - 
-Kol 2,18        - 
-Kol 3,6         - 
-1Th 1,1         - 
+Phil 4,13       - NA
+Kol 1,2         - TR
+Kol 1,14        - TR
+Kol 2,2         - TR/NA ("...zur Erkenntnis des Geheimnis Gottes, des Vaters Christi.")
+Kol 2,11        - NA
+Kol 2,18        - TR 
+Kol 3,6         - TR  (Anstelle des Wortes "Ungehorsam" wird hier der Begriff "Unglauben" verwendet)
+1Th 1,1         - TR
                 - 
-1Th 2,19        - 
-1Th 3,11        - 
-1Th 3,13        - 
-1Th 5,27        - 
-2Th 1,8         - 
-2Th 1,12        - 
-2Th 2,2         - 
+1Th 2,19        - TR
+1Th 3,11        - TR
+1Th 3,13        - TR 
+1Th 5,27        - TR 
+2Th 1,8         - NA
+2Th 1,12        - TR
+2Th 2,2         - NA
                 - 
-2Th 2,4         - 
-2Th 2,13        - 
-1Tim 1,1        - 
-1Tim 1,17       - 
-1Tim 2,7        - 
-1Tim 3,3        - 
+2Th 2,4         - NA
+2Th 2,13        - TR
+1Tim 1,1        - NA
+1Tim 1,17       - TR
+1Tim 2,7        - NA
+1Tim 3,3        - NA
                 - 
-1Tim 3,16       - 
-1Tim 4,12       - 
-1Tim 5,21       - 
-1Tim 6,5        - 
-1Tim 6,7        - 
-1Tim 6,19       - 
-2Tim 1,11       - 
+1Tim 3,16       - TR
+1Tim 4,12       - TR
+1Tim 5,21       - NA
+1Tim 6,5        - TR
+1Tim 6,7        - TR 
+1Tim 6,19       - NA
+2Tim 1,11       - TR
                 - 
-2Tim 2,19       - 
-2Tim 4,1        - 
-2Tim 4,22       - 
+2Tim 2,19       - TR
+2Tim 4,1        - NA (Anstelle des Wortes "bezeugen" wird hier der Begriff "beschwören" verwendet)
+2Tim 4,22       - TR
 Tit 1,4         - 
 Tit 2,7         - 
 Phlm 6          - 
