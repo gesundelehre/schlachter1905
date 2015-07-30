@@ -1,206 +1,205 @@
-Mt 1,18         - 
-Mt 1,25         - 
-Mt 5,22         - 
-Mt 5,44         - 
-Mt 6,1          - 
+Mt 1,18         - TR
+Mt 1,25         - TR 
+Mt 5,22         - NA 
+Mt 5,44         - TR 
+Mt 6,1          - NA  
                 - 
-Mt 6,13         - 
-Mt 8,29         - 
-Mt 9,13         - 
-Mt 12,35        - 
-Mt 12,47        - 
-Mt 13,51        - 
-Mt 15,8         - 
-Mt 16,3         - 
+Mt 6,13         - TR 
+Mt 8,29         - TR 
+Mt 9,13         - NA 
+Mt 12,35        - TR
+Mt 12,47        - TR
+Mt 13,51        - TR
+Mt 15,8         - TR
+Mt 16,3         - TR
                 - 
-Mt 16,20        - 
-Mt 17,21        - 
-Mt 18,11        - 
-Mt 18,15        - 
-Mt 19,9         - 
-Mt 19,16-17     - 
-Mt 20,7         - 
-Mt 20,16        - 
+Mt 16,20        - NA
+Mt 17,21        - TR
+Mt 18,11        - TR
+Mt 18,15        - NA
+Mt 19,9         - TR
+Mt 19,16-17     - NA
+Mt 20,7         - TR
+Mt 20,16        - TR  ("Denn Viele sind berufen..." steht in Klammern)
                 - 
-Mt 20,22-23     - 
-Mt 21,44        - 
-Mt 22,30        - 
-Mt 23,8         - 
-Mt 23,14        - 
-Mt 24,7         - 
+Mt 20,22-23     - TR
+Mt 21,44        - NA? (Dieser Versteil ist nicht niedergeschrieben)
+Mt 22,30        - TR
+Mt 23,8         - TR
+Mt 23,14        - TR
+Mt 24,7         - TR  (Anstelle von "Seuchen", wird hier der Begriff "Pest" verwendet)             - 
+Mt 24,36        - NA
+Mt 25,13        - TR
+Mt 25,31        - TR
+Mt 26,28        - NA
+Mt 27,24        - TR
+Mt 27,34        - TR
+Mt 27,35        - TR 
                 - 
-Mt 24,36        - 
-Mt 25,13        - 
-Mt 25,31        - 
-Mt 26,28        - 
-Mt 27,24        - 
-Mt 27,34        - 
-Mt 27,35        - 
+Mt 28,6         - TR
+Mk 1,1          - TR
+Mk 1,2          - TR
+Mk 1,14         - TR
+Mk 2,17         - TR
+Mk 3,29         - NA  (Anstelle von "SÃ¼nde", wird der Begriff "Strafe" verwendet)
+Mk 4,11         - TR
+Mk 6,11         - TR
                 - 
-Mt 28,6         - 
-Mk 1,1          - 
-Mk 1,2          - 
-Mk 1,14         - 
-Mk 2,17         - 
-Mk 3,29         - 
-Mk 4,11         - 
-Mk 6,11         - 
+Mk 7,2          - NA
+Mk 9,24         - TR 
+Mk 9,29         - TR
+Mk 9,42         - TR 
+Mk 9,44         - TR
+Mk 9,45-46      - TR
+Mk 9,49         - TR
+Mk 10,6         - TR
+Mk 10,7         - TR
+Mk 10,21        - TR
                 - 
-Mk 7,2          - 
-Mk 9,24         - 
-Mk 9,29         - 
-Mk 9,42         - 
-Mk 9,44         - 
-Mk 9,45-46      - 
-Mk 9,49         - 
-Mk 10,6         - 
-Mk 10,7         - 
-Mk 10,21        - 
+Mk 10,24        - TR
+Mk 11,10        - TR
+Mk 11,26        - TR
+Mk 13,14        - TR
+Mk 13,33        - TR
+Mk 14,22        - TR
+Mk 14,24        - TR
+Mk 14,68        - TR
                 - 
-Mk 10,24        - 
-Mk 11,10        - 
-Mk 11,26        - 
-Mk 13,14        - 
-Mk 13,33        - 
-Mk 14,22        - 
-Mk 14,24        - 
-Mk 14,68        - 
+Mk 15,28        - TR
+Mk 16,9-20      - TR
+Lk 1,28         - TR 
+Lk 2,14         - TR
+Lk 2,33         - NA 
+Lk 2,43         - NA
                 - 
-Mk 15,28        - 
-Mk 16,9-20      - 
-Lk 1,28         - 
-Lk 2,14         - 
-Lk 2,33         - 
-Lk 2,43         - 
+Lk 4,4          - NA 
+Lk 4,8          - TR
+Lk 4,18         - TR
+Lk 4,41         - TR
+Lk 7,31         - NA
+Lk 8,48         - NA
+Lk 9,35         - TR
                 - 
-Lk 4,4          - 
-Lk 4,8          - 
-Lk 4,18         - 
-Lk 4,41         - 
-Lk 7,31         - 
-Lk 8,48         - 
-Lk 9,35         - 
+Lk 9,55-56      - TR
+Lk 9,57         - TR
+Lk 11,2-4       - TR
+Lk 14,5         - TR
                 - 
-Lk 9,55-56      - 
-Lk 9,57         - 
-Lk 11,2-4       - 
-Lk 14,5         - 
+Lk 17,3         - TR 
+Lk 17,36        - TR
+Lk 22,43-44     - TR 
+Lk 22,64        - TR
+Lk 23,34        - TR
+Lk 23,42        - TR
                 - 
-Lk 17,3         - 
-Lk 17,36        - 
-Lk 22,43-44     - 
-Lk 22,64        - 
-Lk 23,34        - 
-Lk 23,42        - 
+Lk 24,6         - TR (?)
+Lk 24,12        - TR (?)
+Lk 24,36        - TR (?)
+Lk 24,40        - TR (?)
+Lk 24,46        - NA
+Lk 24,51        - TR (?)
                 - 
-Lk 24,6         - 
-Lk 24,12        - 
-Lk 24,36        - 
-Lk 24,40        - 
-Lk 24,46        - 
-Lk 24,51        - 
+Lk 24,52        - TR (?) (in diesem Vers fehlt der Ausdruck "anbetend")
+Joh 1,18        - TR
+Joh 1,27        - TR
+Joh 3,13        - TR
+Joh 4,42        - TR
                 - 
-Lk 24,52        - 
-Joh 1,18        - 
-Joh 1,27        - 
-Joh 3,13        - 
-Joh 4,42        - 
+Joh 5,3-4       - TR
+Joh 5,30        - TR
+Joh 6,47        - TR
+Joh 6,65        - TR 
+Joh 6,69        - TR
                 - 
-Joh 5,3-4       - 
-Joh 5,30        - 
-Joh 6,47        - 
-Joh 6,65        - 
-Joh 6,69        - 
+Joh 7,8         - NA
+Joh 7,53-8,11   - TR
+Joh 8,59        - TR
+Joh 9,35        - TR
+Joh 16,16       - TR
+Joh 17,11       - NA
+Joh 17,17       - TR
                 - 
-Joh 7,8         - 
-Joh 7,53-8,11   - 
-Joh 8,59        - 
-Joh 9,35        - 
-Joh 16,16       - 
-Joh 17,11       - 
-Joh 17,17       - 
+Joh 21,15       - TR
+Apg 2,30        - TR
+Apg 2,47        - TR
+Apg 3,20        - NA
+Apg 6,3         - TR
+Apg 7,30        - TR
+Apg 7,37        - TR
                 - 
-Joh 21,15       - 
-Apg 2,30        - 
-Apg 2,47        - 
-Apg 3,20        - 
-Apg 6,3         - 
-Apg 7,30        - 
-Apg 7,37        - 
+Apg 8,37        - TR
+Apg 9,5-6       - TR
+Apg 9,28        - TR
+Apg 10,6        - TR
+Apg 10,21       - TR
+Apg 10,30       - TR (in diesem Vers heisst es: "Vor 4 Tagen um diese Stunde, fastete und betete ich um die
+                -    neunte Stunde in meinem Hause."
+Apg 13,19-20    - TR 
+Apg 13,42       - NA
+Apg 15,11       - TR
+Apg 15,17-18    - TR
+Apg 15,24       - TR
                 - 
-Apg 8,37        - 
-Apg 9,5-6       - 
-Apg 9,28        - 
-Apg 10,6        - 
-Apg 10,21       - 
-Apg 10,30       - 
+Apg 15,34       - TR
+Apg 16,31       - TR 
+Apg 17,26       - TR
+Apg 17,30       - TR
+Apg 18,5        - NA
+Apg 18,21       - TR
+Apg 19,4        - TR
+Apg 19,10       - TR 
                 - 
-Apg 13,19-20    - 
-Apg 13,42       - 
-Apg 15,11       - 
-Apg 15,17-18    - 
-Apg 15,24       - 
+Apg 20,21       - TR 
+Apg 20,25       - TR 
+Apg 20,28       - NA (In diesem Versteil heisst es:"...seines eigenen (Sohnes).")
+Apg 21,25       - TR
+Apg 22,16       - NA
+Apg 24,6-8      - TR
                 - 
-Apg 15,34       - 
-Apg 16,31       - 
-Apg 17,26       - 
-Apg 17,30       - 
-Apg 18,5        - 
-Apg 18,21       - 
-Apg 19,4        - 
-Apg 19,10       - 
+Apg 26,30       - NA
+Apg 28,16       - TR
+Apg 28,29       - TR
+RÃ¶m 1,16        - NA 
+RÃ¶m 1,29        - TR
+RÃ¶m 1,31        - TR
+RÃ¶m 6,11        - TR
+RÃ¶m 8,1         - NA
                 - 
-Apg 20,21       - 
-Apg 20,25       - 
-Apg 20,28       - 
-Apg 21,25       - 
-Apg 22,16       - 
-Apg 24,6-8      - 
+RÃ¶m 9,31        - NA
+RÃ¶m 9,32        - NA
+RÃ¶m 10,15       - TR
+RÃ¶m 10,17       - TR
+RÃ¶m 11,6        - TR
+RÃ¶m 13,9        - NA
                 - 
-Apg 26,30       - 
-Apg 28,16       - 
-Apg 28,29       - 
-Röm 1,16        - 
-Röm 1,29        - 
-Röm 1,31        - 
-Röm 6,11        - 
-Röm 8,1         - 
+RÃ¶m 14,6        - TR
+RÃ¶m 14,9        - NA
+RÃ¶m 14,10       - TR
+RÃ¶m 15,29       - NA
+RÃ¶m 16,24       - TR
+1Kor 2,4        - TR
                 - 
-Röm 9,31        - 
-Röm 9,32        - 
-Röm 10,15       - 
-Röm 10,17       - 
-Röm 11,6        - 
-Röm 13,9        - 
+1Kor 2,10       - TR
+1Kor 2,13       - NA
+1Kor 3,3        - TR
+1Kor 4,6        - NA
+1Kor 5,5        - TR
+1Kor 5,7        - TR
+1Kor 6,20       - NA
                 - 
-Röm 14,6        - 
-Röm 14,9        - 
-Röm 14,10       - 
-Röm 15,29       - 
-Röm 16,24       - 
-1Kor 2,4        - 
+1Kor 7,3        - NA
+1Kor 7,5        - NA 
+1Kor 9,18       - NA 
+1Kor 10,9       - TR
+1Kor 10,28      - NA
+1Kor 11,24      - TR
+1Kor 11,29      - TR
                 - 
-1Kor 2,10       - 
-1Kor 2,13       - 
-1Kor 3,3        - 
-1Kor 4,6        - 
-1Kor 5,5        - 
-1Kor 5,7        - 
-1Kor 6,20       - 
-                - 
-1Kor 7,3        - 
-1Kor 7,5        - 
-1Kor 9,18       - 
-1Kor 10,9       - 
-1Kor 10,28      - 
-1Kor 11,24      - 
-1Kor 11,29      - 
-                - 
-1Kor 12,3       - 
-1Kor 12,13      - 
-1Kor 14,37      - 
-1Kor 15,47      - 
-1Kor 16,22      - 
+1Kor 12,3       - TR
+1Kor 12,13      - NA
+1Kor 14,37      - TR
+1Kor 15,47      - TR 
+1Kor 16,22      - TR 
 2Kor 4,10       - 
 2Kor 4,14       - 
                 - 
@@ -342,4 +341,4 @@ Offb 22,6       -
                 - 
 Offb 22,14      - 
 Offb 22,19      - 
-Offb 22,21      - 
+Offb 22,21      -   - 
