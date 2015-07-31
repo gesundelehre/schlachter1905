@@ -1,12 +1,12 @@
-Das Evangelium nach Matthäus
-Matthäus 1
+::40.1
 1. Geschlechts-Register Jesu Christi, des Sohnes Davids, des Sohnes Abrahams.
 2. Abraham zeugte den Isaak, Isaak zeugte den Jakob, Jakob zeugte den Juda und seine Brüder,
 3. Juda zeugte den Phares und den Zara mit der Thamar, Phares zeugte den Esrom, Esrom zeugte den Aram,
 4. Aram zeugte den Aminadab, Aminadab zeugte den Nahasson, Nahasson zeugte den Salmon,
 5. Salmon zeugte den Boas mit der Rahab, Boas zeugte den Obed mit der Ruth, Obed zeugte den Jesse,
 6. Jesse zeugte den König David. Der König David zeugte den Salomon mit dem Weibe des Urias,
-7. Salomon zeugte den Rehabeam, Rehabeam zeugte den Abia, Abia zeugte den Asa, 8. Asa zeugte den Josaphat, Josaphat zeugte den Joram, Joram zeugte den Usia,
+7. Salomon zeugte den Rehabeam, Rehabeam zeugte den Abia, Abia zeugte den Asa,
+8. Asa zeugte den Josaphat, Josaphat zeugte den Joram, Joram zeugte den Usia,
 9. Usia zeugte den Jotham, Jotham zeugte den Ahas, Ahas zeugte den Hiskia,
 10. Hiskia zeugte den Manasse, Manasse zeugte den Amon, Amon zeugte den Josia,
 11. Josia zeugte den Jechonia und dessen Brüder, zur Zeit der Uebersiedelung nach Babylon. 
@@ -24,7 +24,7 @@ Matthäus 1
 23. "Siehe, die Jungfrau wird empfangen und einen Sohn gebären, und man wird seinen Namen nennen Emmanuel"; das ist verdolmetscht: Gott mit uns.
 24. Als nun Joseph vom Schlaf erwachte, that er, wie ihm der Engel des Herrn befohlen, und nahm sein Weib zu sich.
 25. Und erkannte sie nicht, bis sie den Sohn geboren hatte; und er nannte seinen Namen Jesus.
-Matthäus 2
+::40.2
 1. Als nun Jesus geboren war zu Bethlehem im jüdischen Lande, in den Tagen des Königs Herodes, siehe, da kamen Weise aus Morgenland nach Jerusalem, die sprachen:
 2. Wo ist der geborene König der Juden? Denn wir haben seinen Stern im Morgenlande gesehen, und sind gekommen, ihn anzubeten.
 3. Da das der König Herodes hörte, erschrak er, und ganz Jerusalem mit ihm.
@@ -48,7 +48,7 @@ Matthäus 2
 21. Da stand er auf, nahm das Kindlein und seine Mutter zu sich, und ging in das Land Israel.
 22. Als er aber hörte, dass Archelaus anstatt seines Vaters Herodes über Judäa regiere, fürchtete er sich dahin zu gehen. Und auf eine Anweisung hin, die er im Traume erhielt, entwich er in die Gegend des galiläischen Landes.
 23. Und dort angekommen, liess er sich nieder in einer Stadt namens Nazaret; auf dass erfüllt wurde, was durch die Propheten gesagt ist: "Er wird Nazarener heissen."
-Matthäus 3
+::40.3
 1. In denselben» Tagen erscheint. Johannes der Täufer und predigt in der Wüste des jüdischen Landes.
 2. und spricht: Thut Busse, denn das Himmelreich ist nahe herbeigekommen!
 3. Das ist der, von welchem gesagt ist durch den Propheten Jesajas, der da spricht: "Eine Stimme ruft in der Wüste: Bereitet den Weg des Herrn, machet seine Pfade eben!"
@@ -66,7 +66,7 @@ Matthäus 3
 15. Jesus aber antwortete und sprach zu ihm: Lass es jetzt zu; denn also gebührt es uns, alle Gerechtigkeit zu erfüllen! Da liess er ihn zu.
 16. Und da Jesus getauft war, stieg er alsobald aus dem Wasser; und siehe da that sich der Himmel auf, und er sah den Geist Gottes wie eine Taube herabsteigen und über ihn kommen.
 17. Und Zehe, es kam eine Stimme vom Himmel, die sprach: Dies ist mein lieber Sohn, an dem ich Wohlgefallen habe!
-Matthäus 4
+::40.4
 1. Da ward Jesus vom Geist in die Wüste hinaufgeführt, auf dass er von dem Teufel versucht wurde.
 2. Und als er vierzig Tage und vierzig Nächte gefastet, hungerte ihn hernach.
 3. Und der Versucher trat zu ihm und sprach: Bist du Gottes Sohn, so sprich, dass diese Steine Brot werden!
@@ -92,7 +92,7 @@ Matthäus 4
 23. Und Jesus durchzog ganz Galiläa, lehrte in ihren Synagogen und predigte das Evangelium von dem Reich, und heilete alle Krankheiten und alle Gebrechen im Volk.
 24. Und sein Ruf breitete sich aus in ganz Syrien; und sie brachten alle Kranken zu ihm, die mit mancherlei Krankheiten und Schmerzen behaftet waren, und Besessene und Mondsüchtige und Lahme; und er heilte sie.
 25. Und es folgte ihm viel Volk nach aus Galiläa, und aus den Zehn-Städten, und aus Jerusalem und Judäa, und von jenseits des Jordans.
-Matthäus 5
+::40.5
 1. Als er aber das Volk sah, stieg er aus den Berg; und da er sich setzte, traten seine ,Jünger zu ihm.
 2. Und er that seinen Mund auf, lehrte sie und sprach:
 3. Selig sind die Geistlich Armen; denn ihrer ist das Himmelreich!
@@ -141,7 +141,7 @@ Matthäus 5
 46. Denn wenn ihr die liebt, die euch lieben, was habt ihr für einen Lohn? Thun nicht das Gleiche die Zöllner?
 47. Und wenn ihr allein eure Brüder grüsset, was thut ihr Besonderes? Thun nicht auch die Heiden also?
 48. Darum sollt ihr vollkommen sein, gleichwie euer Vater im Himmel vollkommen ist!
-Matthäus 6
+::40.6
 1. Gebt Acht, dass ihr euere Gerechtigkeit nicht übet vor den Leuten, um von ihnen gesehen zu werden; ihr habt sonst keinen Lohn bei eurem Vater im Himmel.
 2. Wenn du nun Almosen gibst, sollst du nicht vor dir posaunen lassen, wie die Heuchler in den Synagogen und arg den Gassen thun, auf dass sie von den Leuten gepriesen werden. Wahrlich, ich sage euch, sie haben ihren Lohn dahin.
 3. Wenn du aber Almosen gibst, so soll deine linke Hand nicht wissen, was deine rechte thut,
@@ -176,7 +176,7 @@ Matthäus 6
 32. Denn nach alledem trachten die Heiden. Denn euer himmlischer Vater weiss, dass ihr das alles bedürfet.
 33. Trachtet aber zuerst nach dem Reiche Gottes und nach seiner Gerechtigkeit, so wird euch solches alles hinzugethan werden.
 34. Darum sollt ihr nicht sorgen für den andern Morgen; denn der morgende Tag wird für das Seine sorgen. Jedem Tage genügt seine eigene Plage!
-Matthäus 7
+::40.7
 1. Richtet nicht, auf dass ihr nicht gerichtet werdet!
 2. Denn mit welchem Gericht ihr richtet, werdet ihr gerichtet werden, und mit welchem Mass ihr messet, wird euch gemessen werden.
 3. Was siehst du aber den Splitter in deines Bruders Auge, und wirst nicht gewahr des Balkens in deinem Auge?
@@ -206,7 +206,7 @@ Matthäus 7
 27. Als nun der Platzregen fiel, und die Wasserströme kamen, und die Winde wehten und an dieses Haus stiessen, da fiel es, und that einen grossen Fall!
 28. Und es begab sich, als Jesus diese Rede vollendet hatte, entsetzte sich das Volk über seine Lehre.
 29. Denn er lehrte sie als einer, der Vollmacht hat, und nicht wie die Schriftgelehrten.
-Matthäus 8
+::40.8
 1. Als er aber von dem Berge herabstieg, folgte ihm viel Volk nach.
 2. Und siehe, es kam ein Aussätziger, fiel vor ihm nieder uns sprach: Herr, wenn du willst, so kannst du mich reinigen.
 3. Und Jesus streckte die Hand aus, rührte ihn an und sprach: Ich will; sei gereinigt! Und alsbald ward er von seinem Aussatz rein.
@@ -241,7 +241,7 @@ Matthäus 8
 32. Und er sprach zu ihnen: Fahret hin! Da fuhren sie aus, und fuhren in die Schweine. Und siehe, die ganze Herde stürzte sich den Abhang hinunter ins Meer und kamen in dem Wasser um.
 33. Die Hirten aber flohen, gingen in die Stadt und verkündigten alles, auch was mit den Besessenen vorgegangen war.
 34. Und siehe, da kam die ganze Stadt heraus, Jesu entgegen; und als sie ihn sahen, baten sie ihn, dass er von ihren Grenzen wiche.
-Matthäus 9
+::40.9
 1. Und er trat in das Schiff, hinüber, und kam in seine Stadt.
 2. Und siehe, da brachten sie zu ihm einen Gelähmten, der auf einem Bette lag. Und als Jesus ihren Glauben sah, sprach er zu dem Gelähmten: Sei getrost mein Sohn, deine Sünden sind vergeben!
 3. Und siehe, etliche der Schriftgelehrten sprachen bei sich selbst: Dieser lästert!
@@ -280,7 +280,7 @@ Matthäus 9
 36. Und als er das Volk sah, jammerte ihn desselbigen, weil sie beraubt und vernachlässigt waren wie Schafe, die keinen Hirten haben.
 37. Da sprach er zu seinen Jüngern: Die Ernte ist gross, aber der Arbeiter sind wenige.
 38. Darum bittet den Herrn der Ernte, dass er Arbeiter in seine Ernte aussende.
-Matthäus 10
+::40.10
 1. Da rief er seine zwölf Jünger zu sich und gab ihnen Vollmacht über die unreinen Geister, dieselben auszutreiben, und jede Krankheit und jedes Gebrechen zu heilen.
 2. Die Namen aber der zwölf Apostel sind diese: Der erste Simon, genannt Petrus, und sein Bruder Andreas; Jakobus, der Sohn des Zebedäus, und ein Bruder Johannes;
 3. Philippus und Bartholomäus, Thomas und Matthäus der Zöllner; Jakobus, der Sohn des Alphäus, und Lebbäus, zugenannt Thaddäus;
@@ -323,7 +323,7 @@ Matthäus 10
 40. Wer euch aufnimmt, der nimmt mich auf; und wer mich aufnimmt, der nimmt den auf, der mich gesandt hat.
 41. Wer einen Propheten aufnimmt, weil er ein Prophet heisst, der wird den Lohn eines Propheten empfangen; und wer einen Gerechten aufnimmt, weil er ein Gerechter heisst, der wird den Lohn eines Gerechten empfangen;
 42. und wer einen dieser Geringen auch nur mit einem Becher kalten Wassers tränkt, weil er ein Jünger heisst, wahrlich, ich sage euch, der wird seinen Lohn nicht verlieren!
-Matthäus 11
+::40.11
 1. Und es begab sich, als Jesus die Befehle an seine zwölf Jünger vollendet hatte, zog er von dannen, um in ihren Städten zu lehren und zu predigen.
 2. Als aber Johannes im Gefängnis die Werke Christi vernahm, liess er ihn durch seine Jünger fragen:
 3. Bist du, der da kommen soll, oder sollen wir eines Andern warten?
@@ -354,7 +354,7 @@ Matthäus 11
 28. Kommet her zu mir alle, die ihr mühselig und beladen seid, so will ich euch erquicken!
 29. Nehmet auf euch mein Joch und lernet von mir, denn ich bin sanftmütig und von Herzen demütig, so werdet ihr Ruhe finden für eure Seelen;
 30. denn mein Joch ist sanft, und meine Last ist leicht
-Matthäus 12
+::40.12
 1. Zu derselben Zeit ging Jesus am Sabbat durch die Saat? Seine Jünger aber hungerten, und fingen an Aehren abzustreifen und zu essen.
 2. Als aber das die Pharisaer sahen, sprachen sie zu ihm: Siehe deine Jünger thun, was am Sabbat nicht erlaubt ist zu thun!
 3. Er aber sagte zu ihnen: Habt ihr nicht gelesen, was David that, als ihn und die bei ihm waren hungerte?
@@ -405,7 +405,7 @@ Matthäus 12
 48. Er aber antwortete und sprach zu dein, der es ihm sagte: Wer ist meine Mutter, und wer sind meine Brüder?
 49. Und er streckte seine Hand aus über seine Jünger, und sprach: Siehe, meine Mutter und meine Brüder!
 50. Denn wer den Willen meines Vaters im Himmel thut, derselbe ist mein Bruder, Schwester und Mutter!
-Matthäus 13
+::40.13
 1. Desselben Tages ging Jesus zum Hause hinaus und setzte sich an das Meer.
 2. Und es versammelte sich viel Volk zu ihm, also dass er in ein Schiff trat und sich setzte; und alles Volk stand am Ufer.
 3. Und er sagte ihnen Vieles in Gleichnissen, und sprach: Siehe, es ging ein Sämann aus zu säen.
@@ -464,7 +464,7 @@ Matthäus 13
 56. Und sind nicht seine Schwestern alle bei uns? Woher kommt ihm das alles?
 57. Und sie ärgerten sich an ihm. Jesus aber sprach zu ihnen: Ein Prophet ist nirgends verachtet als in seiner Vaterstadt und in seinem Hause!
 58. Und er that daselbst nicht viele Wunder um ihres Unglaubens willen.
-Matthäus 14
+::40.14
 1. Zu derselben Zeit hörte der Vierfürst Herodes das Gerücht von Jesu.
 2. Und er sprach zu seinen Dienern: Das ist Johannes der Täufer; der ist von den Toten auferstanden; darum wirken auch die Kräfte durch ihn!
 3. Denn Herodes hatte den Johannes greifen lassen, ihn gebunden und in das Gefängnis gelegt, wegen Herodias, des Weibes seines Bruders Philippus.
@@ -501,7 +501,7 @@ Matthäus 14
 34. Und sie fuhren hinüber und kamen in das Land Genezaret.
 35. Und da ihn die Männer dieser Gegend erkannten, sandten sie in das ganze Land umher, und brachten alle Kranken zu ihm.
 36. Und sie baten ihn, dass sie nur den Saum seines Kleides anrühren dürften; und so viele ihn anrührten, die wurden ganz gesund.
-Matthäus 15
+::40.15
 1. Da kamen zu Jesu Schriftgelehrte und Pharisäer von Jerusalem und sprachen:
 2. Warum übertreten deine Jünger die Satzung der Aeltesten? Denn sie waschen ihre Hände nicht, wann sie Brot essen.
 3. Er aber antwortete und sprach zu Ihnen: Und warum übertretet ihr das Gebot Gottes um eurer Satzung willen?
@@ -541,7 +541,7 @@ Matthäus 15
 37. Und sie assen alle und wurden satt und holden auf, was übrig blieb von den Broten, sieben Körbe voll.
 38. Die aber gegessen hatten, waren viertausend Männer, ohne Weiber und Kinder.
 39. Und nachdem er das Volk entlassen, stieg er in das Schiff und kam in die Gegend von Magdala.
-Matthäus 16
+::40.16
 1. Und die Pharisäer und Sadducäer traten herzu, versuchten ihn und baten, dass er ihnen ein Zeichen aus dem Himmel zeigen möchte. 
 2. Er aber antwortete und sprach zu ihnen: Am Abend saget ihr: Es wird schön; denn der Himmel ist rot;
 3. und des Morgens: Heute kommt ein Ungewitter denn der Himmel ist rot und trübe. Ihr Heuchler, das Aussehen des Himmels wisset ihr zu beurteilen, aber die Zeichen der Zeit verstehet ihr nicht!
@@ -570,7 +570,7 @@ Matthäus 16
 26. Denn was hülfe es dem Menschen, wenn er die ganze Welt gewänne, büsste aber seine Seele ein? Oder was kann der Mensch geben, damit er seine Seele wieder löse?
 27. Denn des Menschen Sohn wird kommen in der Herrlichkeit seines Vaters mit seinen Engeln; und alsdann wird er einem jeglichen vergelten nach seinem Thun.
 28. Wahrlich ich sage euch, es stehen Etliche hier, die den Tod nicht schmecken werden, bis sie des Menschen Sohn haben kommen sehen in seinem Reich!
-Matthäus 17
+::40.17
 1. Und nach sechs Tagen nimmt Jesus den Petrus und Jakobus und dessen Bruder Johannes zu sich, und führt sie beiseite auf einen hohen Berg.
 2. Und er ward vor ihnen verklärt, und sein Angesicht leuchtete wie die Sonne, und seine Kleides wurden weiss wie das Licht.
 3. Und siehe es erschienen ihnen Moses und Elias und redeten mit ihm.
@@ -598,7 +598,7 @@ Matthäus 17
 25. Er spricht: Doch! Und als er in das Haus trat, kam ihm Jesus zuvor und sprach: Was dünkt dich, Simon, von wem nehmen die Könige der Erde den Zoll oder die Steuer, von ihren Söhnen oder von den Fremden?
 26. Petrus spricht zu ihm: Von den Fremden. Da sprach Jesus zu ihm: So sind also die Söhne frei!
 27. Damit wir sie aber nicht ärgern, so gehe hin an das Meer, und wirf die Angel aus, und nimm den ersten Fisch, den du heraufziehst; und wenn du seinen Mund öffnest, wirst du eine Doppeldrachme finden; die nimm und gib sie für mich und dich.
-Matthäus 18
+::40.18
 1. Zu derselben Stunde traten die Jünger zu Jesu und sprachen: Wer ist doch der Grösste im Himmelreich?
 2. Und Jesus rief ein Kind herbei, stellte es mitten unter sie und sprach:
 3. Wahrlich, ich sage euch, wenn ihr nicht umkehret und werdet wie die Kinder, so werdet ihr nicht in das Himmelreich kommen!
@@ -634,7 +634,7 @@ Matthäus 18
 33. solltest denn nicht auch du ich über deinen Mitknecht erbarmen, wie ich mich über dich erbarmt habe?
 34. Und sein Herr überlieferte ihn erzürnt den Peinigern, bis er alles bezahlt hätte, was er schuldig war.
 35. Also wird auch mein himmlischer Vater euch thun, wenn ihr nicht jeder seinem Bruder von Herzen die Fehler vergebet.
-Matthäus 19
+::40.19
 1. Und es begab sich, als Jesus diese Reden vollendet hatte, verliess er Galiläa und kam in die Grenzen von Judäa, jenseits des Jordans.
 2. Und es folgte ihm viel Volk nach, und er heilte sie daselbst.
 3. Da traten die Pharisäer zu ihm, versuchten ihn und sprachen: Ist es erlaubt, aus irgend einem Grund sein Weib fortzuschicken?
@@ -664,7 +664,7 @@ Matthäus 19
 27. Da antwortete Petrus und sprach zu ihm: Siehe, wir haben alles verlassen und sind dir nachgefolgt; was wird uns dafür?
 28. Jesus aber sprach zu ihnen: Wahrlich, ich sage euch, ihr, die ihr mir nachgefolgt seid, werdet in der Wiedergeburt, wann des Menschen Sohn auf dem Thron seiner Herrlichkeit sitzen wird, auch auf zwölf Thronen sitzen und die zwölf Stämme Israels richten.
 29. Und ein jeglicher, welcher Häuser oder Brüder oder Schwestern oder Vater oder Mutter oder Weib oder Kinder oder Aecker um meines Namens willen verlassen hat, der wird es hundertfältig empfangen, und das ewige Leben erben. 30. Aber viele von den Ersten werden die Letzten sein, und von von den Letzten die Ersten.
-Matthäus 20
+::40.20
 1. Denn das Himmelreich ist einem Hausherrn gleich, welcher am Morgen früh ausging, Arbeiter in seinen Weinberg zu dingen.
 2. Und nachdem er mit den Arbeitern übereingekommen um einen Denar für den Tag, sandte er sie in seinen Weinberg.
 3. Und da er um die dritte Stunde ausging, sah er andere am Markte müssig stehen,
@@ -699,7 +699,7 @@ Matthäus 20
 32. Und Jesus stand still, rief ihnen und sprach: Was wollt ihr, dass ich euch thun soll?
 33. Sie sagten zu ihm: Herr, dass unsere Augen geöffnet werden!
 34. Da erbarmte sich Jesus ihrer und rührte ihre Augen an, und alsobald sahen sie wieder, und zogen ihm nach.
-Matthäus 21
+::40.21
 1. Und als sie Jerusalem nahten und gen Bethphage an den Oelberg kamen, sandte Jesus zwei Jünger,
 2. und sprach zu ihnen: Gehet in den Flecken, der vor euch liegt, und alsobald werdet ihr eine Eselin angebunden finden, und ein Füllen bei ihr, die löset ab und führet sie zu mir!
 3. Und wenn euch jemand etwas sagt, so sprechet: Der Herr bedarf ihrer, so wird er sie alsbald senden.
@@ -743,9 +743,9 @@ Matthäus 21
 41. Sie sprachen zu ihm: Er wird die Uebelthäter übel umbringen, und den Weinberg andern Weingärtnern verleihen, welche ihm die Früchte abliefern werden zu ihrer Zeit. -
 42. Jesus spricht zu ihnen: Habt ihr noch nie gelesen in der Schrift: "Der Stein, den die Bauleute verworfen haben, ist zum Eckstein geworden. Das ist vom Herrn geschehen, und es ist wunderbar in unsern Augen"?
 43. Darum sage ich euch: Das Reich Gottes wird von euch genommen und einem Volke gegeben werden, das dessen Früchte bringt.
-44. Und als die Hohenpriester und Pharisäer seine Gleichnisse hörten, merkten sie, dass er von ihnen redete.
-45. Und sie suchten ihn zu greifen, aber sie fürchteten das Volk, weil es ihn für einen Propheten hielt.
-Matthäus 22
+44. <FI>44<Fi>- - - <FI>45<Fi>Und als die Hohenpriester und Pharisäer seine Gleichnisse hörten, merkten sie, dass er von ihnen redete.
+45. <FI>46<Fi>Und sie suchten ihn zu greifen, aber sie fürchteten das Volk, weil es ihn für einen Propheten hielt.
+::40.22
 1. Und Jesus hob an und redete weiter zu ihnen in Gleichnissen und sprach:
 2. Das Himmelreich ist einem menschlichen König gleich, der seinem Sohne Hochzeit machte.
 3. Und er sandte seine Knechte aus, die Geladenen zur Hochzeit zu rufen; aber sie wollten nicht kommen.
@@ -792,7 +792,7 @@ Matthäus 22
 44. "Der Herr hat zu meinem Herrn gesagt: Setze dich zu meiner Rechten bis ich deine Feinde zum Schemel deiner Füsse lege"?
 45. Wenn ihn also David Herr nennt, wie ist er denn sein Sohn?
 46. Und niemand konnte ihm ein Wort antworten. Auch unterstund sich von demselben Tage an niemand mehr ihn zu fragen.
-Matthäus 23
+::40.23
 1. Da sprach Jesus zum Volk und zu seinen Jüngern:
 2. Die Schriftgelehrten und Pharisäer haben sich auf Moses Stuhl gesetzt.
 3. Alles nun. was sie euch sagen, das beobachtet und thut; aber nach ihren Werken thut nicht; denn sie sagen es wohl, aber thun es nicht.
@@ -832,7 +832,7 @@ Matthäus 23
 37. Jerusalem, Jerusalem, die du tötest die Propheten, und steinigst, die zu dir gesandt sind! Wie oft habe ich deine Kinder sammeln wollen, wie eine Henne ihre Küchlein unter die Flügel sammelt, aber ihr habt nicht gewollt!
 38. Siehe, euer Haus wird euch öde gelassen werden;
 39. denn ich sage euch: Ihr werdet mich von jetzt an nicht mehr sehen, bis ihr sprechen werdet: Gelobt sei, der da kommt im Namen des Herrn!
-Matthäus 24
+::40.24
 1. Und Jesus ging hinaus und hinweg von ein Tempel. Und seine Jünger traten herzu, dass sie ihm die Gebäude des Tempels zeigen.
 2. Jesus aber sprach zu ihnen: Sehet ihr nicht dieses alles? Wahrlich, ich sage euch, hier wird kein Stein auf dem andern bleiben, der nicht zerbrochen wird!
 3. Als er aber am Oelberg sass, traten die Jünger besonders zu ihm und sprachen: Sage uns, wann wird das alles geschehen, und welches wird das Zeichen deiner Zukunft und des Endes der Weltzeit sein?
@@ -884,7 +884,7 @@ Matthäus 24
 49. und anfinge, seine Mitknechte zu schlagen, und mit den Schlemmern zu essen und zu trinken;
 50. so wird der Herr jenes Knechtes an einem Tage kommen, da er es nicht erwartet, und zu einer Stunde, wo er es nicht weiss,
 51. und wird ihn entzwei hauen, und ihm seinen Teil mit den Heuchlern geben. Daselbst wird das Heulen und das Zähneknirschen sein.
-Matthäus 25
+::40.25
 1. Dann wird das Himmelreich zehn Jungfrauen gleich geworden sein, die ihre Lampen nahmen und dem Bräutigam entgegen gingen.
 2. Fünf derselben waren klug und fünf töricht.
 3. Die Törichten nahmen zwar ihre Lampen, aber sie nahmen kein Oel mit sich.
@@ -931,7 +931,7 @@ Matthäus 25
 44. Dann werden auch sie ihm antworten und sagen: Herr, wann haben wir dich hungrig, oder durstig, oder fremd, oder nackt, oder krank, oder gefangen gesehen, und haben dir nicht gedient?
 45. Dann wird er ihnen antworten: Wahrlich, ich sage euch: insofern ihr es nicht gethan habt einem dieser Geringsten, habt ihr es mir auch nicht gethhan!
 46. Und sie werden in die ewige Pein gehen; die Gerechten aber in das ewige Leben.
-Matthäus 26
+::40.26
 1. Und es begab sich, als Jesus alle diese Reden vollendet hatte, sprach er zu seinen Jüngern:
 2. Ihr wisset, dass in zwei Tagen das Passa ist; dann wird des Menschen Sohn überantwortet, dass er gekreuzigt werde.
 3. Da versammelten sich die Hohenpriester und die Schriftgelehrten und die Aeltesten des Volkes im Hof des obersten Priesters, der Kajaphas hiess.
@@ -1007,7 +1007,7 @@ Matthäus 26
 73. Ueber ein Kleines aber traten die Umstehenden herzu und sagten zu Petrus: Wahrhaftig, du bist auch einer von ihnen; denn auch deine Sprache verrät dich.
 74. Da fing er an zu fluchen und zu schwören: Ich kenne den Menschen nicht! Und alsobald krähte der Hahn.
 75. Und Petrus ward eingedenk des Wortes Jesu, der zu ihm gesagt hatte: Ehe der Hahn kräht, wirst du mich dreimal verleugnen. Und er ging hinaus und weinte bitterlich.
-Matthäus 27
+::40.27
 1. Als es aber Morgen ward, hielten alle Hohenpriester und die Aeltesten des Volkes einen Rat wider Jesum, dass sie ihn zum Tode brächten.
 2. Und sie banden ihn, führten ihn hin und überantworteten ihn dem Landpfleger Pontius Pilatus.
 3. Da nun Judas, der ihn verraten hatte, sah, dass er verurteilt war, reute es ihn, und er brachte die dreissig Silberlinge den Hohenpriestern und den Aeltesten wieder und sprach:
@@ -1074,7 +1074,7 @@ Matthäus 27
 64. So befiehl nun, dass das Grab sicher verwahrt werde bis an den dritten Tag, damit nicht etwa seine Jünger des Nachts kommen und ihn stehlen und zum Volke sagen: Er ist von den Toten auferstanden, und der letzte Betrug ärger werde als der erste.
 65. Pilatus sprach zu ihnen: Ihr sollt eine Wache haben!
 66. Da gingen sie hin, versiegelten den Stein und verwahrten das Grab mit der Wache.
-Matthäus 28
+::40.28
 1. Aber nach dem Sabbat, als der erste Tag der Woche anbrach, kam Maria Magdalena und die andere Maria, das Grab zu betrachten.
 2. Und siehe, es geschah ein grosses Erdbeben, denn des Herrn Engel stieg vom Himmel herab, trat herzu und wälzte den Stein von der Thür, und setzte sich darauf.
 3. Und seine Gestalt war wie der Blitz und sein Kleid weiss wie der Schnee.
