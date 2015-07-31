@@ -1,4 +1,4 @@
-Das Evangelium nach Lukas.
+::41.1
 1. Nachdem Viele es unternommen haben, eine Erzählung der Thatsachen aufzusetzen, die unter uns, völlig erwiesen sind, 
 2. wie sie uns diejenigen überliefert haben, welche von Anfang an Dingen zeugen und Diener des Wortes gewesen sind;
 3. so schien es auch mir gut der ich allem von Anfang an gefolgt bin, es dir genau, der Reihe nach zu beschreiben, vortrefflicher Theophilus,
@@ -797,6 +797,7 @@ Lukas 17
 22. Er sprach aber zu den Jüngern: Es werden Tage kommen, da ihr begehren werdet, einen einzigen de Tage des Menschensohnes zu sehen, und ihr werdet ihn nicht sehen.
 23. Und sie werden zu euch sagen: Siehe hier, oder siehe dort! Gehet nicht hin, und laufet ihnen nicht nach.
 24. Denn gleichwie der Blitz, der in einer Himmelsgegend erstrahlt, bis zur andern leuchtet, also wird auch des Menschen Sohn sein an seinem Tage.
+25. Zuvor aber muss er viel leiden und verworfen werden von diesem Geschlecht.
 26. Und so wie es in den Tagen Noahs ging, also wird es sein in den Tagen des Menschensohnes: -
 27. Sie assen, sie tranken, sie freiten und liessen sich freien, bis zu dem Tag, da Noah in die Arche ging; und die Sündflut kam und vertilgte alle.
 28. Aehnlich ging es in den Tagen Lots: Sie assen, sie tranken, sie kauften und verkauften, sie pflanzten und bauten,
@@ -1066,9 +1067,11 @@ Lukas 23
 2. Sie fingen aber an, ihn zu verklagen und sprachen: Wir haben gefunden, dass dieser das Volk abwendet und dem Kaiser die Steuern zu zahlen wehrt und behauptet, er sei Christus, der König.
 3. Da fragte ihn Pilatus und sprach: Du bist der König der Juden? Er antwortete ihm und sprach: Du sagst es!
 4. Da sprach Pilatus zu den Hohenpriestern und dem Volke: Ich finde keine Schuld an diesem Menschen.
-5. Sie aber bestanden darauf und sprachen: Er wiegelt das Volk auf, damit dass er lehrt durch das ganze Judäa, was er zuerst in Galiläa that und jetzt hier! Als Pilatus das hörte, fragte er, ob der Mensch ein Galiläer sei.
-7. Und da er vernahm, dass er aus dem Gebiet des Herodes sei, sandte er ihn hin zu Herodes, der in diesen Tagen auch selbst zu Jerusalem war. Herodes aber freute sich sehr, als er Jesum sah; denn er hätte ihn schon längst gerne gesehen, weil er viel von ihm gehört hatte, und er hoffte, ein Zeichen von ihm zu sehen. 
-8. Er legte ihm denn auch viele Fragen vor; aber Jesus gab ihm keine Antwort.
+5. Sie aber bestanden darauf und sprachen: Er wiegelt das Volk auf, damit dass er lehrt durch das ganze Judäa, was er zuerst in Galiläa that und jetzt hier!
+6. Als Pilatus das hörte, fragte er, ob der Mensch ein Galiläer sei.
+7. Und da er vernahm, dass er aus dem Gebiet des Herodes sei, sandte er ihn hin zu Herodes, der in diesen Tagen auch selbst zu Jerusalem war.
+8. Herodes aber freute sich sehr, als er Jesum sah; denn er hätte ihn schon längst gerne gesehen, weil er viel von ihm gehört hatte, und er hoffte, ein Zeichen von ihm zu sehen. 
+9. Er legte ihm denn auch viele Fragen vor; aber Jesus gab ihm keine Antwort. -
 10. Die Hohenpriester aber und die Schriftgelehrten standen da und verklagten ihn heftig.
 11. Und Herodes samt seinen Kriegsleuten verachtete ihn und spottete seiner, zog ihm ein weisses Kleid an und schickte ihn wieder zu Pilatus.
 12. An demselben Tag schlossen Pilatus und Herodes Freundschaft mit einander; denn zuvor waren sie einander feind gewesen.
@@ -1122,7 +1125,8 @@ Lukas 24
 3. Und da sie hineingingen, fanden sie den Leib des Herrn Jesu nicht.
 4. Und es begab sich, als sie deswegen verlegen waren, siehe, da standen bei ihnen zwei Männer in strahlenden Kleidern.
 5. Da sie nun erschracken und ihre Angesichter zur Erde neigten, sprachen diese zu ihnen: Was suchet ihr den Lebendigen bei den Toten?
-6. Er ist nicht hier, sondern er ist auferstanden! Seid eingedenk, wie er zu euch sagte, als er noch in Galiläa war und sprach: Des Menschen Sohn muss überantwortet werden in die Hände sündiger Menschen und gekreuzigt werden und am dritten Tage wieder auferstehen.
+6. Er ist nicht hier, sondern er ist auferstanden! Seid eingedenk, wie er zu euch sagte, als er noch in Galiläa war
+7. und sprach: Des Menschen Sohn muss überantwortet werden in die Hände sündiger Menschen und gekreuzigt werden und am dritten Tage wieder auferstehen.
 8. Da erinnerten sie sich seiner Worte.
 9. und kehrten vom Grabe zurück und verkündigten das alles den Elfen und allen Uebrigen.
 10. Es waren aber Maria Magdalene und Johanna und Maria, des Jakobus Mutter; sie und die Uebrigen mit ihnen, sagten den Aposteln solches.
