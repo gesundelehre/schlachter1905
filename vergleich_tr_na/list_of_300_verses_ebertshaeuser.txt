@@ -1,3 +1,5 @@
+Anscheinend gab es einige Missverständnisse, was denn bei dem jeweiligen Vers genau der Unterschied zwischen TR/NA ist - dies war wohl auf Grund dessen, da im PDF von mir nicht mit fett oder Unterstreichen die jeweiligen Unterschiede hervorgehoben waren... Daher müssen wir leider die Liste noch einmal durchgehen... Aber diesmal wird es schneller gehen, denn ich habe fast das ganze NT der SCH1905 schon digitalisiert und kann so eine schnelle gegenüberstellung von TR/NA anbieten, damit sollte es schneller gehen, zu überprüfen. Ausserdem kann ich auch gleich noch Schlachter1951 mit einbinden, sodass man jene auch gleich noch vergleichen kann... Sorry für die Umstände...
+
 Mt 1,18         - TR
 Mt 1,25         - TR 
 Mt 5,22         - NA 
@@ -23,7 +25,7 @@ Mt 20,7         - TR
 Mt 20,16        - TR  ("Denn Viele sind berufen..." steht in Klammern)
                 - 
 Mt 20,22-23     - TR
-Mt 21,44        - NA? (Dieser Versteil ist nicht niedergeschrieben)
+Mt 21,44        - NA
 Mt 22,30        - TR
 Mt 23,8         - TR
 Mt 23,14        - TR
@@ -41,7 +43,7 @@ Mk 1,1          - TR
 Mk 1,2          - TR
 Mk 1,14         - TR
 Mk 2,17         - TR
-Mk 3,29         - NA  (Anstelle von "Sünde", wird der Begriff "Strafe" verwendet)
+Mk 3,29         - TR  (Anstelle von "Gericht", wird der Begriff "Strafe" verwendet)
 Mk 4,11         - TR
 Mk 6,11         - TR
                 - 
@@ -263,13 +265,12 @@ Kol 3,6         - TR  (Anstelle des Wortes "Ungehorsam" wird hier der Begriff "U
 2Tim 4,1        - NA (Anstelle des Wortes "bezeugen" wird hier der Begriff "beschwören" verwendet)
 2Tim 4,22       - TR
 Tit 1,4         - TR
-Tit 2,7         - TR/NA (andere Formulierung "wobei du dich selbst zum Vorbild guter Werkemachen mußt;")
+Tit 2,7         - TR
 Phlm 6          - TR
-Hebr 1,2        - TR/NA (andere Formulierung "welchen er eingesetzt hat zum Erben über alles, und durch
-                -        welchen er auch die Aeonen (Zeitläufe) gemacht hat;)
+Hebr 1,2        - TR
 Hebr 1,3        - TR
                 - 
-Hebr 2,7        - NA (Versteil hinzugefügt: "...alles hast du unter seine Füße gethan.")
+Hebr 2,7        - NA
 Hebr 3,1        - NA
 Hebr 3,6        - TR 
 Hebr 7,21       - NA
@@ -307,7 +308,7 @@ Jak 5,16        - TR
 1Joh 3,14       - NA
 1Joh 4,3        - NA
 1Joh 4,19       - NA
-1Joh 5,7-8      - NA ("...auf der Erde:..."fehlt (bezüglich der Zeugnisablegung))
+1Joh 5,7-8      - NA ("...auf der Erde:..."fehlt (bezüglich der Zeugnisablegung) = Comma Johanneum weggelassen)
                 - 
 1Joh 5,13       - NA
 2Joh 3          - NA
@@ -317,10 +318,10 @@ Jud 4           - NA
                 - 
 Jud 22-23       - NA
 Jud 25          - NA
-Offb 1,5-6      - TR (einziger Unterschied: anstatt "...geliebt hat...", steht "...liebt...")
+Offb 1,5-6      - NA ( Unterschied: anstatt "...geliebt hat...", steht "...liebt..." und "Königreich" anstatt "Königtum")
 Offb 1,8        - NA
                 - 
-Offb 1,11       - TR/NA (die Gemeinden werden einzeln beim Namen genannt)
+Offb 1,11       - TR
 Offb 2,15       - TR
 Offb 5,9-10     - NA
 Offb 5,14       - TR (hier wird nicht von "24 Ältesten" gesprochen, sondern von: "...die 4 Wesen und
@@ -332,18 +333,20 @@ Offb 14,5       - NA
 Offb 15,2       - TR 
 Offb 15,3       - NA
                 - 
-Offb 16,5       - TR/NA (es steht nur "...:Herr,...", nicht aber "...:o Herr,...")
+Offb 16,5       - TR (es steht nur "...:Herr,...", nicht aber "...:o Herr,...")
 Offb 16,17      - TR 
 Offb 19,1       - TR
 Offb 20,9       - TR
 Offb 20,12      - NA 
-Offb 21,24      - NA (hier ist die Rede von "Völkern", nicht jedoch von "Heidenvölkern")
+Offb 21,24      - TR/NA (Und die Völker... = NA // ihre Herrlichkeit und ihre Ehre = TR)
 Offb 22,6       - NA 
                 - 
 Offb 22,14      - NA
 Offb 22,19      - NA 
 Offb 22,21      - NA (mit der Ergänzung lautet das Ende: "...mit allen Heiligen.")
 
+
+-------NOCH ZU KORRIGIERN----->>
 In der  Schlachterbibel 1905 finden sich insgesamt von diesen Versen 202, die nach dem Textus Receptus
 (hier mit "TR" abgekürzt) übersetzt worden sind. Dies entspricht etwa 67,3%
 Womit die restlichen 32,7% der hier zu findenden Verse nach dem Nestle-Aland Grundtext (hier mit "NA" abgekürzt) beziehen.
